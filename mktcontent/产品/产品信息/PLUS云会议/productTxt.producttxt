@@ -1,0 +1,10 @@
+[
+	{
+		"txt":"{\"desc\":\"京东云PLUS云会议，是一款即买即用、简单易用、支持企业定制的SaaS化服务。为用户打造一站式音视频交互、数据共享平台，根据网络情况自适应调整的流畅会议体验，帮助企业提高企业生产力、加强协作办公，达到真正的想见就见。\",\"iconUrl\":\"&#xea1a;\",\"imageUrl\":\"//img1.jcloudcs.com/cms/a1e82b49-8345-4366-bfc1-698876fa008a20180820181711.png\",\"instruction\":\"[{\\\"explain\\\":\\\"\\\",\\\"explainLink\\\":\\\"\\\"}]\",\"middleClstag\":\"Products|keycount|MiddleContentSec|95\",\"sectionClstag\":\"Products|keycount|SectionBannerSec|95\"}",
+		"id":"1705"
+	},
+	{
+		"txt":"[{\"description\":\"[]\",\"descriptionJson\":[],\"id\":269,\"instruction\":\"会议模式：人数较少的点对点会议，面对面的培训会，远程面试，诊疗以及其他临时的问题沟通会议等。\\n会议特点：灵活，随时随地，需要入会时，随时随地能入会。\\n\",\"lang\":\"cn\",\"name\":\"小型会议场景\",\"picUrl\":\"//img1.jcloudcs.com/cms/1c5aed71-eabb-4c7c-9d16-e66e4506253d20180821112743.jpg\",\"productId\":95,\"sort\":0,\"status\":0},{\"description\":\"[]\",\"descriptionJson\":[],\"id\":270,\"instruction\":\"会议模式：部门讨论会，客户沟通会等中等人数规模的会议。\\n会议特点：会议数量多，使用频繁，PPT文档等资料共享讨论应用较多，存在移动应用需求。\",\"lang\":\"cn\",\"name\":\"中型会议场景\",\"picUrl\":\"//img1.jcloudcs.com/cms/2eaab232-18d2-4ba3-b68e-ee6d2ae6120520180821112824.jpg\",\"productId\":95,\"sort\":0,\"status\":0},{\"description\":\"[]\",\"descriptionJson\":[],\"id\":271,\"instruction\":\"会议模式：领导会议 、集团及全体会议\\n会议特点：稳定性需求高，会议室空间大，需考虑灯光效果及拾音范围。同时需要考虑会场美观，无过多线缆， 高端体验。\\n\",\"lang\":\"cn\",\"name\":\"大型会议场景\",\"picUrl\":\"//img1.jcloudcs.com/cms/4992be2b-7c69-493c-8055-6461d3014e3420180821112908.jpg\",\"productId\":95,\"sort\":0,\"status\":0}]",
+		"id":"1708"
+	}
+]
