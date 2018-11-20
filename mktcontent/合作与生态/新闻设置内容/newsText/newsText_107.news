@@ -10,7 +10,7 @@
       compatible: true,
       preload: false,
       navId: "jdhome2016",
-	  timestamp: 1542728334000, 
+	  timestamp: 1542728492000, 
       isEnablePDBP: 0,
 		surveyLink : "//surveys.jd.com/index.php?r=survey/index/sid/889711/newtest/Y/lang/zh-Hans",
 		leftCateABtestSwitch : 0,
@@ -280,11 +280,11 @@ margin: 0 0 0 15px !important;
 	<a href="//yp.jd.com/7378439f822c457ead0.html">2000左右三门冰箱</a>
 	<a href="//yp.jd.com/7370b73e9a4f876279e.html">173升双门冰箱</a>
 	<a href="//yp.jd.com/737b7798134c38f6f7c.html">180升电冰箱</a>
-	<a href="//www.jd.com/phb/key_737dfac59a72becc5a9.html">海尔（Haier）风冷（无霜）定频冰箱</a>
-	<a href="//www.jd.com/phb/key_737ea04d482109f6bf0.html">美的（Midea）双门冰箱</a>
-	<a href="//www.jd.com/phb/key_73799eb32ce22c2f051.html">海尔（Haier）BCD-345WDGFU1</a>
-	<a href="//www.jd.com/phb/key_7377b9e058cc61de7af.html">家用海尔电冰箱</a>
-	<a href="//www.jd.com/phb/key_737ca5be9dee9d334d3.html">TCLBCD-216TF1</a>
+	<a href="//www.jd.com/phb/key_7372e5e2f03bbae78d0.html">海尔卡萨帝</a>
+	<a href="//www.jd.com/phb/key_737e7cb06283eec8330.html">TCLBCD-196TWF2</a>
+	<a href="//www.jd.com/phb/key_737ec02e196068971fa.html">富信（Fuxin）BC-17A</a>
+	<a href="//www.jd.com/phb/key_737c0de146549f84d5e.html">海尔（Haier）460WDGZ</a>
+	<a href="//www.jd.com/phb/key_73750a2edec22e1e385.html">西门子（SIEMENS）KM46FSGETI </a>
 </div>
 <!-- CLUB_LINK end -->
     <div class="fs">
