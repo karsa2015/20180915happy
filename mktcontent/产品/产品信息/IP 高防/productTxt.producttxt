@@ -1,0 +1,14 @@
+[
+	{
+		"txt":"{\"desc\":\"IP高防是针对遭受大流量的DDoS攻击的用户，提供增值防护的服务。通过将业务IP替换成高防IP的方式，确保用户源站的安全稳定。应用场景包括游戏、金融、电商等类型的用户。\",\"iconUrl\":\"\",\"imageUrl\":\"//img1.jcloudcs.com/cms/1c9f73a4-047a-4cc0-9b5a-2482deb569e220180419123054.jpg\",\"instruction\":\"[{\\\"explain\\\":\\\"\\\",\\\"explainLink\\\":\\\"\\\"}]\",\"middleClstag\":\"Products|keycount|MiddleContentSec|61\",\"sectionClstag\":\"Products|keycount|SectionBannerSec|61\"}",
+		"id":"1587"
+	},
+	{
+		"txt":"[{\"companyName\":\"京东商城\",\"description\":\"IP高防产品来源于京东商城DDoS防御的经验输出。IP高防长期以来一直对京东商城的日常运营，以及大促进行安保，成功完成了多次618、双11等活动大促防护。IP高防有效保证了京东商城的安全平稳运行。\\n\",\"id\":74,\"logoUrl\":\"//img1.jcloudcs.com/cms/a5bb9d93-d877-40e1-9cde-e92e3319428420180829163411.jpg\",\"productId\":61,\"sort\":0,\"status\":0},{\"companyName\":\"OPPO\",\"description\":\"IP高防对OPPO网站的日常安全保护，以及活动大促进行安全保障，有效保障了OPPO的业务稳定。\\n\",\"id\":76,\"logoUrl\":\"//img1.jcloudcs.com/cms/62446605-dc6f-4904-a709-e1214b8efa8e20180829163542.jpg\",\"productId\":61,\"sort\":0,\"status\":0},{\"companyName\":\"HP\",\"description\":\"IP高防有效保证了HP的网站安全，确保ddos攻击和CC攻击都无法对业务造成影响，保证了业务的正常、平稳。\",\"id\":77,\"logoUrl\":\"\",\"productId\":61,\"sort\":0,\"status\":0},{\"companyName\":\"360商城\",\"description\":\"360商城自接入京东IP高防以来，网上交易正常，业务一直平稳。IP高防帮助360商城做过多次大促防护，成功抵御过高达147G的攻击流量。\",\"id\":78,\"logoUrl\":\"\",\"productId\":61,\"sort\":0,\"status\":0}]",
+		"id":"1590"
+	},
+	{
+		"txt":"[{\"description\":\"[]\",\"descriptionJson\":[],\"id\":141,\"instruction\":\"网站类业务类型丰富，却也是最容易受到DDoS攻击的应用类型。黑客通过DNS解析即可轻松得到网站的真实服务器IP。通过对真实的服务器IP发起大流量DDoS攻击或应用层攻击，很容易造成网站访问缓慢甚至瘫痪，给网站业务造成无法估量的损失。\\nIP高防依托于多年来对京东商城防御的经验，能完美解决包括：电商、金融、证券、企业门户等网站类场景的DDoS攻击防护。\",\"lang\":\"cn\",\"name\":\"网站类业务\",\"picUrl\":\"\",\"productId\":61,\"sort\":0,\"status\":0},{\"description\":\"[]\",\"descriptionJson\":[],\"id\":166,\"instruction\":\"游戏行业是DDoS攻击的重灾区，游戏行业对业务的稳定性和响应速度异常敏感。一旦受到攻击，使访问缓慢、游戏掉线，将直接影响玩家的粘性，造成企业损失。\\n\\nIP高防能防御各种游戏类的DDoS攻击，如游戏空连接和慢连接、UDP小包攻击、ACKFlood等。快速发现攻击，启动清洗，保证游戏业务的安全。\",\"lang\":\"cn\",\"name\":\"游戏类业务\",\"picUrl\":\"\",\"productId\":61,\"sort\":0,\"status\":0}]",
+		"id":"1591"
+	}
+]
