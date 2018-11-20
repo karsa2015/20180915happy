@@ -1,0 +1,10 @@
+[
+	{
+		"txt":"{\"desc\":\"GPU服务器京东云基于GPU提供更加高效的计算服务，适用于人工智能、图像处理、深度学习、科学计算等多领域场景。实时高速，提供卓越的并行计算及浮点计算能力。您可快速构建异构计算应用。\",\"iconUrl\":\"\",\"imageUrl\":\"//img1.jcloudcs.com/cms/efa9f9e1-27bb-4317-88c5-d424d466bc0320180419121728.jpg\",\"instruction\":\"[{\\\"explain\\\":\\\"申请使用资格，将有专人为您服务\\\",\\\"explainLink\\\":\\\"//answer.jd.com/jump/?shortCode=kMkJKMKjPwVY&surveyId=1561624\\\"}]\",\"middleClstag\":\"Products|keycount|MiddleContentSec|34\",\"sectionClstag\":\"Products|keycount|SectionBannerSec|34\"}",
+		"id":"1510"
+	},
+	{
+		"txt":"[{\"description\":\"[]\",\"descriptionJson\":[],\"id\":72,\"instruction\":\"京东云GPU服务器致力于加快大规模深度学习应用程序的速度，提供卓越的用户体验，专为提供处理爆炸性数据量所需的超大吞吐量而打造，其推理性能较 CPU 提升 40 倍以上。您可基于GPU服务器搭建深度学习平台，进行模型训练及在线预测。\\n\",\"lang\":\"cn\",\"name\":\"深度学习\",\"picUrl\":\"//img1.jcloudcs.com/cms/cafb10a0-4087-4d3e-9285-aaee7f55808e20170906192152.png\",\"productId\":34,\"sort\":0,\"status\":0},{\"description\":\"[]\",\"descriptionJson\":[],\"id\":73,\"instruction\":\"利用京东云GPU服务器强大计算能力，结合云主机 、对象存储 及其他产品，您可以根据应用场景搭建计算系统，满足从基因组学、人工智能、到图像识别、自然语言处理等领域的不同计算需求。\",\"lang\":\"cn\",\"name\":\"科学计算\",\"picUrl\":\"//img1.jcloudcs.com/cms/19e3d4b1-4f2e-42d9-9ab8-8bb95ebf1a2020170906192211.png\",\"productId\":34,\"sort\":0,\"status\":0}]",
+		"id":"1513"
+	}
+]
