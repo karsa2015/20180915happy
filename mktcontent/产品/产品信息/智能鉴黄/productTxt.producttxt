@@ -1,0 +1,10 @@
+[
+	{
+		"txt":"{\"desc\":\"智能鉴黄基于先进的深度学习和计算机视觉算法，提供精准高效的色情图片鉴别服务。可以应用于儿童安全上网、直播色情画面审核等业务场景，减少企业审核人力成本、降低违规风险。\",\"iconUrl\":\"&#xe758;\",\"imageUrl\":\"//img1.jcloudcs.com/cms/f39e2bf1-27a7-4ee7-84f0-8b702548154c20180419122430.jpg\",\"instruction\":\"[{\\\"explain\\\":\\\"立即体验智能鉴黄服务\\\",\\\"explainLink\\\":\\\"http://cognitive-console.jdcloud.com/ex/porn.html\\\"}]\",\"middleClstag\":\"Products|keycount|MiddleContentSec|50\",\"sectionClstag\":\"Products|keycount|SectionBannerSec|50\"}",
+		"id":"1554"
+	},
+	{
+		"txt":"[{\"description\":\"[]\",\"descriptionJson\":[],\"id\":92,\"instruction\":\"视频直播业务涉及一旦色情内容，会引起用户投诉、监管部门处罚等负面影响，传统的人工审核难以全面覆盖所有直播内容，同时人力成本较高。通过视频抽帧方式，实时截取直播画面，通过智能鉴黄服务进行色情鉴定，能够及时发现违规内容，降低企业风险、减少人力投入。\",\"lang\":\"cn\",\"name\":\"视频直播涉黄检测\",\"picUrl\":\"\",\"productId\":50,\"sort\":0,\"status\":0}]",
+		"id":"1557"
+	}
+]
