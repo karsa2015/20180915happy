@@ -1,0 +1,10 @@
+[
+	{
+		"txt":"{\"desc\":\"京东云PLUS企业云盘是一套安全、易用的企业级文档管理平台，满足企业文档管理、协同办公、跨终端使用的业务场景。\",\"iconUrl\":\"\",\"imageUrl\":\"//img1.jcloudcs.com/cms/598d100b-537f-4bae-bf42-89642b5265a120180820132755.png\",\"middleClstag\":\"Products|keycount|MiddleContentSec|90\",\"sectionClstag\":\"Products|keycount|SectionBannerSec|90\"}",
+		"id":"1686"
+	},
+	{
+		"txt":"[{\"createTime\":1534359170000,\"description\":\"[]\",\"descriptionJson\":[],\"id\":246,\"instruction\":\"统一而集中的数据管理；防止数据资产丢失；进行应用和访问的权限控制；详尽的数据报表；低建设和维护成本；\",\"lang\":\"cn\",\"name\":\"企业管理需求\",\"operator\":\"houyinglong1\",\"picUrl\":\"//img1.jcloudcs.com/cms/b61ef7db-5788-403b-a0c5-19a559e0d1d520180816105149.png\",\"productId\":90,\"sort\":0,\"status\":0},{\"createTime\":1534359170000,\"description\":\"[]\",\"descriptionJson\":[],\"id\":247,\"instruction\":\"存储、备份工作成果；随时随地的访问；快速分享资料；智能而全面的搜索；简单熟悉的操作；\",\"lang\":\"cn\",\"name\":\"员工应用需求\",\"operator\":\"houyinglong1\",\"picUrl\":\"//img1.jcloudcs.com/cms/9e286e2d-0ca9-4b16-ad35-c7f27d189db820180816105227.png\",\"productId\":90,\"sort\":0,\"status\":0}]",
+		"id":"1689"
+	}
+]
