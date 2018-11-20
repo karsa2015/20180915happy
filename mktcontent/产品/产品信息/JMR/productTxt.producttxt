@@ -1,0 +1,18 @@
+[
+	{
+		"txt":"{\"desc\":\"JMR(JingDong MapReduce)是一个托管集群平台，可以在京东云上运行大数据框架（如Apache Hadoop和Apache Spark）或运行这些框架相关的开源项目（如Apache Hive和Apache Pig），您可便捷地使用MapReduce，Hive，Spark，Presto等服务低成本开展大规模分布式数据计算服务和海量数据分析。\",\"iconUrl\":\"\",\"imageUrl\":\"//img1.jcloudcs.com/cms/4a0a7299-3b2d-4a01-9f6d-66e2b8c3847820180419121908.jpg\",\"instruction\":\"[{\\\"explain\\\":\\\"提交工单申请免费试用，点击立即前往！\\\",\\\"explainLink\\\":\\\"https://uc.jdcloud.com/question/submit\\\"},{\\\"explain\\\":\\\"推广优惠期间，JMR产品服务费全免！\\\",\\\"explainLink\\\":\\\"https://www.jdcloud.com/help/detail/3132/isCatalog/1\\\"}]\",\"middleClstag\":\"Products|keycount|MiddleContentSec|38\",\"sectionClstag\":\"Products|keycount|SectionBannerSec|38\"}",
+		"id":"1518"
+	},
+	{
+		"txt":"[{\"companyName\":\"钱大妈\",\"description\":\"基于JMR搭建大数据平台，利用京东人工智能和大数据技术，提供智能补货和销量预测等。\",\"id\":72,\"logoUrl\":\"//img1.jcloudcs.com/cms/b77ef599-a335-4174-ab19-465124738e0920180806155618.jpg\",\"productId\":38,\"sort\":0,\"status\":0},{\"companyName\":\"良品铺子\",\"description\":\"基于JMR搭建大数据平台，利用京东人工智能和大数据技术，提供智能补货和销量预测等。\",\"id\":73,\"logoUrl\":\"//img1.jcloudcs.com/cms/ec40245d-a447-43a5-b7e5-c2b7f13e382620180806155624.jpg\",\"productId\":38,\"sort\":0,\"status\":0}]",
+		"id":"1521"
+	},
+	{
+		"txt":"[{\"description\":\"[]\",\"descriptionJson\":[],\"id\":132,\"instruction\":\"支持处理各类应用程序生成的各种日志，帮助用户将对非结构化数据或半结构化数据进行挖掘和分析。支持海量数据ETL，在大型数据集上进行数据抽取、转换、加载，同时支持用户自定义数据加工处理的作业，满足海量数据ETL的应用需求。\",\"lang\":\"cn\",\"name\":\"离线分析\",\"picUrl\":\"//img1.jcloudcs.com/cms/0712e52f-9030-40b7-b699-bb555fa7c65220180806153902.jpg\",\"productId\":38,\"sort\":0,\"status\":0},{\"description\":\"[]\",\"descriptionJson\":[],\"id\":229,\"instruction\":\"生产环境中的数据传入消息队列，流计算引擎实时不间断地处理消息队列中的数据，并产生新数据或是计算结果。流计算的产出可以存储至集群之中或是存储在外部云服务之上。\",\"lang\":\"cn\",\"name\":\"流计算\",\"picUrl\":\"//img1.jcloudcs.com/cms/2ca596bf-52cb-4c2d-a4e8-361961debcad20180803161014.png\",\"productId\":38,\"sort\":0,\"status\":0},{\"description\":\"[]\",\"descriptionJson\":[],\"id\":237,\"instruction\":\"JMR_BD-OS1.0版本，是一款平台级大数据产品。平台提供多源异构的数据采集模块、实时/离线计算框架，简洁易用的开发环境和平台接口，提供大数据管理、开发和计算的能力，可支撑企业级数据仓库、用户画像、知识图谱、深度学习、文本分析及更多企业级应用的构建。\",\"lang\":\"cn\",\"name\":\"一站式大数据平台\",\"picUrl\":\"//img1.jcloudcs.com/cms/76a1ea18-75ac-4f3e-be67-0b8c976ec4b820180807105902.jpg\",\"productId\":38,\"sort\":0,\"status\":0}]",
+		"id":"1522"
+	},
+	{
+		"txt":"{\"opraUrl\":\"\",\"opraWebUrl\":\"\"}",
+		"id":"1523"
+	}
+]
