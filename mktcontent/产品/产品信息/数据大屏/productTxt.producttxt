@@ -1,0 +1,10 @@
+[
+	{
+		"txt":"{\"desc\":\"京东云数据大屏是一款基于实时多层渲染技术的数据可视化工具，它能够提供对海量数据进行实时场景化展示，您还可以通过钻取、缩放等交互方式全面的掌握数据。同时大屏提供涵盖电商销售、物流、政务等多行业应用的专业模板，极大程度满足会议展览、业务监控、风险预警、地理信息分析等多种业务的展示需求。\\n京东数据大屏也是一款图形化的大屏开发工具，非专业的数据工程师通过拖拽方式对数据进行所见即\",\"iconUrl\":\"\",\"imageUrl\":\"//img1.jcloudcs.com/cms/8cdd3ef2-00bb-4c48-a885-71a9144a63ce20180419122557.jpg\",\"instruction\":\"[{\\\"explain\\\":\\\"\\\",\\\"explainLink\\\":\\\"\\\"}]\",\"middleClstag\":\"Products|keycount|MiddleContentSec|56\",\"sectionClstag\":\"Products|keycount|SectionBannerSec|56\"}",
+		"id":"1568"
+	},
+	{
+		"txt":"[{\"description\":\"[]\",\"descriptionJson\":[],\"id\":98,\"instruction\":\"通过生产总值、利润、企业规模和就业人数等多个宏观指标以及工业生产的月度走势分析，经济效益季度走势分析，应收业额行业占比等多维度分析全方位展示城市的经济运行状态。\",\"lang\":\"cn\",\"name\":\"城市经济云图\",\"picUrl\":\"//img1.jcloudcs.com/cms/a1a74b79-a691-44a0-9301-8b243cbcbd6f20180515115401.png\",\"productId\":56,\"sort\":0,\"status\":0},{\"description\":\"[]\",\"descriptionJson\":[],\"id\":99,\"instruction\":\"经营状况实时可视化数据动态展示大屏，可实时监控当日交易支付金额，成交会员分析、热销商品排行等品牌全域核心数据。。\",\"lang\":\"cn\",\"name\":\"电商销售大屏\",\"picUrl\":\"//img1.jcloudcs.com/cms/514c14fb-5ea1-4352-8fde-81d5942bce2020180626173113.png\",\"productId\":56,\"sort\":0,\"status\":0},{\"description\":\"[]\",\"descriptionJson\":[],\"id\":100,\"instruction\":\"实时展示城市交通路况\",\"lang\":\"cn\",\"name\":\"城市交通路况\",\"picUrl\":\"//img1.jcloudcs.com/cms/e007f17c-0615-4cd0-9aea-5922e86d7cb020180626173353.png\",\"productId\":56,\"sort\":0,\"status\":0}]",
+		"id":"1571"
+	}
+]
