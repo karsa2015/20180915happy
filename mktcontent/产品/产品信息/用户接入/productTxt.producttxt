@@ -1,0 +1,10 @@
+[
+	{
+		"txt":"{\"desc\":\"京东云用户接入产品体系，集成GTC全局流量调度、网络负载均衡、应用负载均衡，运维管理与数据监控、云端业务质量探测等产品。结合DDoS本地防护、IP高防联动、WAF、流量清洗等安全特性。为用户提供私有化与云服务结合的交付方式，助力企业轻松构建安全、稳定、高性能的用户接入体系\",\"iconUrl\":\"\",\"imageUrl\":\"//img1.jcloudcs.com/cms/00c0605b-fe5e-46c7-b676-9d6697fc3cf520180419123825.jpg\",\"instruction\":\"[{\\\"explain\\\":\\\"\\\",\\\"explainLink\\\":\\\"\\\"}]\",\"middleClstag\":\"Products|keycount|MiddleContentSec|73\",\"sectionClstag\":\"Products|keycount|SectionBannerSec|73\"}",
+		"id":"1625"
+	},
+	{
+		"txt":"[{\"createTime\":1524002970000,\"description\":\"[]\",\"descriptionJson\":[],\"id\":182,\"instruction\":\"用户自建数据中心对外提供应用服务。数据中心存在多区域、多POP节点特点，对可靠性，稳定性，业务连续性要求较高。场景中云端提供业务质量探测服务，当发现POP入口异常情况，GTC全局流量控制实时进行流量调度，保证业务连续性。\",\"lang\":\"cn\",\"name\":\"私有化数据中心场景\",\"operator\":\"duanhui5\",\"picUrl\":\"//img1.jcloudcs.com/cms/de58d79f-0ce4-4ea2-8878-8d2713b6555320180420172557.png\",\"productId\":73,\"sort\":0,\"status\":0},{\"createTime\":1524002970000,\"description\":\"[]\",\"descriptionJson\":[],\"id\":183,\"instruction\":\"用户通过自建数据中心与云环境相结合的方式进行业务部署，具有高可靠、弹性扩展、安全防护的场景需求。数据中心使用私有化部署应用负载均衡优化流量分发，私有化部署DDoS防护，当攻击流量超过本地防护阈值，灵活扩展云端防护能力进行流量清洗与防护。\",\"lang\":\"cn\",\"name\":\"混合云业务场景\",\"operator\":\"duanhui5\",\"picUrl\":\"//img1.jcloudcs.com/cms/a3033e42-5964-4a07-875e-33d10018c5ad20180420172606.png\",\"productId\":73,\"sort\":0,\"status\":0}]",
+		"id":"1628"
+	}
+]
