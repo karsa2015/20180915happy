@@ -1,0 +1,10 @@
+[
+	{
+		"txt":"{\"desc\":\"京东云搜索Elasticsearch（JCS for Elasticsearch，简称ES）是一个基于Apache Lucene的开源分布式搜索和数据分析引擎，100%兼容ELK架构，致力于海量数据存储搜索、实时日志分析、应用程序监控等场景服务。通过京东云控制台，可快捷创建和配置Elasticsearch集群，实现数据实时分析搜索、监控告警的全托管服务。\",\"iconUrl\":\" \",\"imageUrl\":\"\",\"middleClstag\":\"Products|keycount|MiddleContentSec|98\",\"sectionClstag\":\"Products|keycount|SectionBannerSec|98\"}",
+		"id":"1716"
+	},
+	{
+		"txt":"[{\"description\":\"[{\\\"TitleUrl\\\":\\\"\\\",\\\"TitleName\\\":\\\"\\\"}]\",\"descriptionJson\":[{\"TitleName\":\"\",\"TitleUrl\":\"\"}],\"id\":291,\"instruction\":\"京东云搜索Elasticsearch能够采集非结构化、半结构化、结构化日志信息。将捕捉和预处理日志数据加载到Elasticsearch中，结合Kibana进行全文搜索、统计分析和多维度图表展示，以获取关于用户和应用程序的有价值信息。\\n实时检索：数据在数秒至数分钟内即可被检索 。\\nKibana可视化分析：提供数据的多维度图表展示。\\n\",\"lang\":\"cn\",\"name\":\"日志分析\",\"picUrl\":\"\",\"productId\":98,\"sort\":0,\"status\":0},{\"description\":\"[{\\\"TitleUrl\\\":\\\"\\\",\\\"TitleName\\\":\\\"\\\"}]\",\"descriptionJson\":[{\"TitleName\":\"\",\"TitleUrl\":\"\"}],\"id\":292,\"instruction\":\"应用/站内搜索是用户获取关键信息的高效途径，可完成电商商品、移动应用等全文内容的快速检索，支持创建高级搜索筛选条件，同时将符合条件的商品进行分类统计，对搜索内容提供高亮能力，提供数据从入库到完成检索接近实时的索引和精准定位。\\n实时检索：站内全文或对象信息更新数秒至数分钟内即可被检索。\\n分类统计：检索同时可以将符合条件的对象项进行分类统计。\\n\",\"lang\":\"cn\",\"name\":\"应用/站内搜索\",\"picUrl\":\"\",\"productId\":98,\"sort\":0,\"status\":0},{\"description\":\"[{\\\"TitleUrl\\\":\\\"\\\",\\\"TitleName\\\":\\\"\\\"}]\",\"descriptionJson\":[{\"TitleName\":\"\",\"TitleUrl\":\"\"}],\"id\":293,\"instruction\":\"京东云搜索Elasticsearch集群内置Kibana插件对数据进行可视化展示，支持复杂的过滤和聚合统计功能，通过京东云监控帮助客户对各指标监控和报警，依靠Elasticsearch的地理空间分析找出发生问题的地理区域，以确定根本原因并解决问题。\",\"lang\":\"cn\",\"name\":\"智能监控\",\"picUrl\":\"\",\"productId\":98,\"sort\":0,\"status\":0}]",
+		"id":"1719"
+	}
+]
