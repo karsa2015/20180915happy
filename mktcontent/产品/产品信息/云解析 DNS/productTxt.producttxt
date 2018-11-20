@@ -1,0 +1,10 @@
+[
+	{
+		"txt":"{\"desc\":\"云解析是在域名解析的基础上，由京东云团队，结合京东云的优质网络、主机资源研发的高可用、高可靠、功能丰富的权威DNS服务器。云解析拥有简单易用的控制台，方便用户对域名进行操作。采用多集群、多节点部署，拥有百G防护套餐，专业DNS团队提供全面的服务保障能力。\",\"iconUrl\":\"\",\"imageUrl\":\"//img1.jcloudcs.com/cms/3e2c9d43-0fe3-49e6-a9f5-9ee19bd740fe20180419123343.jpg\",\"instruction\":\"[{\\\"explain\\\":\\\"3月6日---8月31日期间使用云解析可享受永久由免费版升为企业版的特惠。\\\",\\\"explainLink\\\":\\\"https://www.jcloud.com/help/detail/2243/isCatalog/1\\\"}]\",\"middleClstag\":\"Products|keycount|MiddleContentSec|64\",\"sectionClstag\":\"Products|keycount|SectionBannerSec|64\"}",
+		"id":"1599"
+	},
+	{
+		"txt":"[{\"description\":\"[]\",\"descriptionJson\":[],\"id\":152,\"instruction\":\"丰富的建站模板，通过应用市场快速搭建网站\\n云解析联动部署，高效，便利。\\n智能解析线路适配，提供网站最优访问路径\\n提供安全防护功能，保障网站的安全稳定\",\"lang\":\"cn\",\"name\":\"网站服务\",\"picUrl\":\"//img1.jcloudcs.com/cms/954e51da-1658-4cb2-83e6-567efda560b220180124181153.png\",\"productId\":64,\"sort\":0,\"status\":0}]",
+		"id":"1602"
+	}
+]
