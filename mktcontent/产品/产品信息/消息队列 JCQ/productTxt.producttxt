@@ -1,0 +1,10 @@
+[
+	{
+		"txt":"{\"desc\":\"京东云消息队列（JD Cloud Message Queue，简称JCQ）是京东云自主研发的分布式消息队列服务。产品能够提供消息发布订阅、消息查询和死信队列等一系列高可靠、高可用、高处理性能的消息云服务，是云架构中不可或缺的核心产品。\",\"iconUrl\":\"\",\"imageUrl\":\"//img1.jcloudcs.com/cms/91706f2a-53d3-49f6-b038-deedea7128ce20180716095644.jpg\",\"middleClstag\":\"Products|keycount|MiddleContentSec|85\",\"sectionClstag\":\"Products|keycount|SectionBannerSec|85\"}",
+		"id":"1666"
+	},
+	{
+		"txt":"[{\"createTime\":1530043059000,\"description\":\"[]\",\"descriptionJson\":[],\"id\":214,\"instruction\":\"在不是强耦合多系统中，很多业务流程不强依赖于核心流程，可以放到消息队列中让消息消费者去按需消费，而不影响核心主流程。例如电商场景（即订单、购物车、物流、积分等系统）。\",\"lang\":\"cn\",\"name\":\"系统解耦\",\"operator\":\"jiangshanqi\",\"picUrl\":\"//img1.jcloudcs.com/cms/57d2fe3c-3673-431a-87bb-0f3b30ff19f920180705175621.png\",\"productId\":85,\"sort\":0,\"status\":0},{\"createTime\":1530043059000,\"description\":\"[]\",\"descriptionJson\":[],\"id\":215,\"instruction\":\"上下游系统处理能力存在差距的时候，利用消息队列作为数据的缓冲器，控制信息流量，在下游有能力处理的时候，再进行消费，避免系统处理的请求无效，无服务能力。例如秒杀，抢购等场景。\",\"lang\":\"cn\",\"name\":\"削峰填谷\",\"operator\":\"jiangshanqi\",\"picUrl\":\"//img1.jcloudcs.com/cms/08916070-5316-42a6-aa75-9c35fbfae9c620180705175626.png\",\"productId\":85,\"sort\":0,\"status\":0},{\"createTime\":1530043059000,\"description\":\"[]\",\"descriptionJson\":[],\"id\":216,\"instruction\":\"生产者只关心消息是否送达了队列，不关心谁订阅了消息，系统的多个部分可以同时发送或消费消息。例如消息总线，ConfigService更新配置。\\n\\n\",\"lang\":\"cn\",\"name\":\"广播\",\"operator\":\"jiangshanqi\",\"picUrl\":\"//img1.jcloudcs.com/cms/20ed0784-1487-4100-b18b-68c8de417b7a20180705175630.png\",\"productId\":85,\"sort\":0,\"status\":0},{\"createTime\":1530043059000,\"description\":\"[]\",\"descriptionJson\":[],\"id\":217,\"instruction\":\"对于上游系统发出的请求，接收者可能由于网络，断电，负载过高等各种原因无法接受，而消息队列同步写入、三副本备份可以存储请求，保证消息的可靠传递，保证信息的可靠性。例如金融交易。\",\"lang\":\"cn\",\"name\":\"可靠信息传递\",\"operator\":\"jiangshanqi\",\"picUrl\":\"//img1.jcloudcs.com/cms/973f55e3-55a7-4f82-ab40-c92ce94d55ff20180705175634.png\",\"productId\":85,\"sort\":0,\"status\":0}]",
+		"id":"1669"
+	}
+]
