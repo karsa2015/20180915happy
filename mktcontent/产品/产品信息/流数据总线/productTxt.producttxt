@@ -1,0 +1,10 @@
+[
+	{
+		"txt":"{\"desc\":\"流数据总线是面向大数据场景下可扩展、分布式、高吞吐量的消息服务，提供低延迟的消息发布及订阅功能，帮助用户快速构建流式数据的分析和应用。\",\"iconUrl\":\"\",\"imageUrl\":\"//img1.jcloudcs.com/cms/7c2499a0-7ef7-4eb8-984f-f9cc087b4cf520180419122126.jpg\",\"instruction\":\"[{\\\"explain\\\":\\\"\\\",\\\"explainLink\\\":\\\"\\\"}]\",\"middleClstag\":\"Products|keycount|MiddleContentSec|44\",\"sectionClstag\":\"Products|keycount|SectionBannerSec|44\"}",
+		"id":"1536"
+	},
+	{
+		"txt":"[{\"description\":\"[]\",\"descriptionJson\":[],\"id\":70,\"instruction\":\"利用流数据总线，能够持续地对不同类型的流式数据进行采集、存储。\",\"lang\":\"cn\",\"name\":\"实时数据集成\",\"picUrl\":\"\",\"productId\":44,\"sort\":0,\"status\":0},{\"description\":\"[]\",\"descriptionJson\":[],\"id\":71,\"instruction\":\"通过流数据总线实时获取物联网设备的相关数据，并将流数据连接到流计算服务或用户自定义的实时分析应用，从而开展实时分析、运行监控、故障预测等业务。\",\"lang\":\"cn\",\"name\":\"物联网实时分析\",\"picUrl\":\"\",\"productId\":44,\"sort\":0,\"status\":0}]",
+		"id":"1539"
+	}
+]
