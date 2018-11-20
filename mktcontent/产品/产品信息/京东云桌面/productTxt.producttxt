@@ -1,0 +1,10 @@
+[
+	{
+		"txt":"{\"desc\":\"云桌面（WorkSpace）是由京东云所提供的安全、便捷的云上虚拟Windows桌面服务。用户无需购买、部署、运维物理基础设施，并能随时随地的接入办公环境。云桌面为用户提供卓越的体验，打造更安全、更便捷、高性能、低成本、高效率的IT办公体系。\",\"iconUrl\":\"\",\"imageUrl\":\"//img1.jcloudcs.com/cms/235ac89c-4071-4985-81e9-f91abfee7b3a20180911150033.jpg\",\"middleClstag\":\"Products|keycount|MiddleContentSec|101\",\"sectionClstag\":\"Products|keycount|SectionBannerSec|101\"}",
+		"id":"1727"
+	},
+	{
+		"txt":"[{\"createTime\":1536621027000,\"description\":\"[{\\\"TitleUrl\\\":\\\"\\\",\\\"TitleName\\\":\\\"\\\"}]\",\"descriptionJson\":[{\"TitleName\":\"\",\"TitleUrl\":\"\"}],\"id\":294,\"instruction\":\"在任何地点接入云桌面，适合经常出差或流动办公的人\",\"lang\":\"cn\",\"name\":\"移动办公\",\"operator\":\"zhanghan30\",\"picUrl\":\"\",\"productId\":101,\"sort\":0,\"status\":0},{\"createTime\":1536621027000,\"description\":\"[{\\\"TitleUrl\\\":\\\"\\\",\\\"TitleName\\\":\\\"\\\"}]\",\"descriptionJson\":[{\"TitleName\":\"\",\"TitleUrl\":\"\"}],\"id\":295,\"instruction\":\"为企业总部、远程办公、分支机构、移动办公等多种场景提供一致桌面办公环境\",\"lang\":\"cn\",\"name\":\"政府组织办公\",\"operator\":\"zhanghan30\",\"picUrl\":\"\",\"productId\":101,\"sort\":0,\"status\":0},{\"createTime\":1536621027000,\"description\":\"[{\\\"TitleUrl\\\":\\\"\\\",\\\"TitleName\\\":\\\"\\\"}]\",\"descriptionJson\":[{\"TitleName\":\"\",\"TitleUrl\":\"\"}],\"id\":296,\"instruction\":\"为临时来到公司办公的人员快速发放、离开时及时释放，您只需要为使用期间付出合理费用即可\",\"lang\":\"cn\",\"name\":\"临时办公\",\"operator\":\"zhanghan30\",\"picUrl\":\"\",\"productId\":101,\"sort\":0,\"status\":0}]",
+		"id":"1730"
+	}
+]
