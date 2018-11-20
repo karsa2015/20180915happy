@@ -1,38 +1,38 @@
 [
 	{
-		"name":"云主机",
+		"name":"Virtual Machines",
 		"id":"4"
 	},
 	{
-		"name":"云硬盘",
+		"name":"Cloud Disk Service",
 		"id":"5"
 	},
 	{
-		"name":"负载均衡",
+		"name":"Load Balancer",
 		"id":"6"
 	},
 	{
-		"name":"云数据库 MySQL",
+		"name":"JCS for MySQL",
 		"id":"7"
 	},
 	{
-		"name":"缓存Redis",
+		"name":"JCS for Redis",
 		"id":"8"
 	},
 	{
-		"name":"对象存储",
+		"name":"Object Storage Service",
 		"id":"9"
 	},
 	{
-		"name":"DDoS基础防护",
+		"name":"Anti-DDoS Basic",
 		"id":"10"
 	},
 	{
-		"name":"云监控",
+		"name":"Monitoring",
 		"id":"11"
 	},
 	{
-		"name":"访问控制",
+		"name":"IAM",
 		"id":"12"
 	},
 	{
@@ -40,7 +40,7 @@
 		"id":"13"
 	},
 	{
-		"name":"私有网络",
+		"name":"Virtual Private Cloud",
 		"id":"23"
 	},
 	{
@@ -48,27 +48,27 @@
 		"id":"24"
 	},
 	{
-		"name":"大数据分析平台",
+		"name":"Big Data Analysis Platform",
 		"id":"25"
 	},
 	{
-		"name":"安全咨询",
+		"name":"Security Consulting Service",
 		"id":"29"
 	},
 	{
-		"name":"云数据库 MongoDB",
+		"name":"JCS for MongoDB",
 		"id":"31"
 	},
 	{
-		"name":"原生容器",
+		"name":"Native Container",
 		"id":"32"
 	},
 	{
-		"name":"GPU服务器",
+		"name":"GPU VM",
 		"id":"34"
 	},
 	{
-		"name":"日志服务",
+		"name":"Log Service",
 		"id":"37"
 	},
 	{
@@ -76,99 +76,99 @@
 		"id":"38"
 	},
 	{
-		"name":"数据计算服务",
+		"name":"Data Compute",
 		"id":"39"
 	},
 	{
-		"name":"BI报表",
+		"name":"BI Report",
 		"id":"40"
 	},
 	{
-		"name":"数据工厂",
+		"name":"Data Factory",
 		"id":"41"
 	},
 	{
-		"name":"流数据总线",
+		"name":"Stream Hub",
 		"id":"44"
 	},
 	{
-		"name":"主机安全",
+		"name":"Endpoint Security",
 		"id":"45"
 	},
 	{
-		"name":"画像分析",
+		"name":"Portrait Analysis",
 		"id":"46"
 	},
 	{
-		"name":"开放搜索",
+		"name":"Open Search",
 		"id":"48"
 	},
 	{
-		"name":"流计算",
+		"name":"Stream Compute",
 		"id":"49"
 	},
 	{
-		"name":"智能鉴黄",
+		"name":"Intelligent Anti-porn",
 		"id":"50"
 	},
 	{
-		"name":"神算子",
+		"name":"Computing Master",
 		"id":"51"
 	},
 	{
-		"name":"模型训练",
+		"name":"Model Training",
 		"id":"52"
 	},
 	{
-		"name":"文字识别 OCR",
+		"name":"Text Recognition OCR",
 		"id":"54"
 	},
 	{
-		"name":"数据大屏",
+		"name":"Data Visualization",
 		"id":"56"
 	},
 	{
-		"name":"人脸识别",
+		"name":"Face Recognition",
 		"id":"57"
 	},
 	{
-		"name":"云数据库 SQL Server",
+		"name":"Cloud Database JCS for SQL Server",
 		"id":"58"
 	},
 	{
-		"name":"SSL数字证书",
+		"name":"SSL Certificate",
 		"id":"59"
 	},
 	{
-		"name":"专线服务",
+		"name":"Direct Connection",
 		"id":"60"
 	},
 	{
-		"name":"IP 高防",
+		"name":"Anti-DDoS Pro",
 		"id":"61"
 	},
 	{
-		"name":"弹性伸缩",
+		"name":"Auto Scaling",
 		"id":"62"
 	},
 	{
-		"name":"态势感知",
+		"name":"Situation Awareness",
 		"id":"63"
 	},
 	{
-		"name":"云解析 DNS",
+		"name":"Cloud Resolution DNS",
 		"id":"64"
 	},
 	{
-		"name":"用户行为分析",
+		"name":"User Behavior Analysis",
 		"id":"66"
 	},
 	{
-		"name":"视频直播",
+		"name":"Live Video",
 		"id":"67"
 	},
 	{
-		"name":"应用安全网关",
+		"name":"Application Security Gateway",
 		"id":"68"
 	},
 	{
@@ -176,123 +176,123 @@
 		"id":"70"
 	},
 	{
-		"name":"NAT 网关",
+		"name":"NAT Gateway",
 		"id":"71"
 	},
 	{
-		"name":"媒体处理服务",
+		"name":"Media Processing Service",
 		"id":"72"
 	},
 	{
-		"name":"用户接入",
+		"name":"NF1 ADC",
 		"id":"73"
 	},
 	{
-		"name":"NLP分析",
+		"name":"NLP Analysis",
 		"id":"74"
 	},
 	{
-		"name":"数据集成",
+		"name":"Data Integration",
 		"id":"75"
 	},
 	{
-		"name":"高可用组",
+		"name":"Availability Group",
 		"id":"76"
 	},
 	{
-		"name":"云数据库 Percona",
+		"name":"Cloud Database Percona",
 		"id":"77"
 	},
 	{
-		"name":"分布式数据库 TiDB",
+		"name":"TiDB Service",
 		"id":"78"
 	},
 	{
-		"name":"云物理服务器",
+		"name":"Cloud Physical Server",
 		"id":"79"
 	},
 	{
-		"name":"列式存储",
+		"name":"Column-oriented Storage",
 		"id":"81"
 	},
 	{
-		"name":"分布式关系型数据库 DRDS",
+		"name":"Distributed Relational Database DRDS",
 		"id":"82"
 	},
 	{
-		"name":"Web应用防火墙",
+		"name":"Web Application Firewall",
 		"id":"83"
 	},
 	{
-		"name":"弹性网卡",
+		"name":"Elastic Network Interface",
 		"id":"84"
 	},
 	{
-		"name":"消息队列 JCQ",
+		"name":"Message Queue",
 		"id":"85"
 	},
 	{
-		"name":"Kubernetes集群",
+		"name":"JCS for Kubernetes",
 		"id":"86"
 	},
 	{
-		"name":"网络负载均衡",
+		"name":"Network Load Balancer",
 		"id":"87"
 	},
 	{
-		"name":"区块链BaaS平台",
+		"name":"Block Chain BaaS Platform",
 		"id":"88"
 	},
 	{
-		"name":"区块链数据服务",
+		"name":"Block Chain Data Service",
 		"id":"89"
 	},
 	{
-		"name":"PLUS企业云盘",
+		"name":"PLUS Enterprise Cloud BOX",
 		"id":"90"
 	},
 	{
-		"name":"PLUS企业邮箱",
+		"name":"PLUS Enterprise Email",
 		"id":"91"
 	},
 	{
-		"name":"云数据库 MariaDB",
+		"name":"JCS for MariaDB",
 		"id":"92"
 	},
 	{
-		"name":"云托管服务",
+		"name":"Cloud Cabinet Service",
 		"id":"93"
 	},
 	{
-		"name":"云编译",
+		"name":"CodeBuild",
 		"id":"94"
 	},
 	{
-		"name":"PLUS云会议",
+		"name":"PLUS Meeting",
 		"id":"95"
 	},
 	{
-		"name":"容器镜像仓库",
+		"name":"Container Registry",
 		"id":"96"
 	},
 	{
-		"name":"代码托管",
+		"name":"CodeCommit",
 		"id":"97"
 	},
 	{
-		"name":"云搜索Elasticsearch",
+		"name":"JCS for Elasticsearch",
 		"id":"98"
 	},
 	{
-		"name":"DDoS防护包",
+		"name":"Anti-DDoS Protection Package",
 		"id":"99"
 	},
 	{
-		"name":"API 网关",
+		"name":"API Gateway",
 		"id":"100"
 	},
 	{
-		"name":"京东云桌面",
+		"name":"JD WorkSpaces",
 		"id":"101"
 	}
 ]
