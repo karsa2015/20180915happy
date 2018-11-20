@@ -1,0 +1,6 @@
+[
+	{
+		"txt":"{\"desc\":\"高可用组是京东云提供的云主机逻辑集合，高可用组内的云主机分散部署在相互隔离的物理资源上，当出现硬件故障或定时维护时只会影响部分云主机，您的业务仍为可用状态。服务免费。\",\"iconUrl\":\"\",\"imageUrl\":\"//img1.jcloudcs.com/cms/48bdcfe0-8594-413b-948f-c6ecc4678f5320180524150120.jpg\",\"middleClstag\":\"Products|keycount|MiddleContentSec|76\",\"sectionClstag\":\"Products|keycount|SectionBannerSec|76\"}",
+		"id":"1636"
+	}
+]
