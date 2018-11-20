@@ -1,0 +1,10 @@
+[
+	{
+		"txt":"{\"desc\":\"京东云数据计算服务（Data Computing Service，简称：DCS）是一个全托管、低使用成本的云上数据仓库服务。数据计算服务提供开箱即用的数据管理、灵活弹性的计算资源、开放的数据接口、细粒度的权限体系，帮助用户快速构建企业级数据分析平台，并持续聚焦在释放数据价值的工作。\",\"iconUrl\":\"\",\"imageUrl\":\"//img1.jcloudcs.com/cms/8a25bc2e-d231-44e6-82a1-1771255c04aa20180419122001.jpg\",\"instruction\":\"[{\\\"explain\\\":\\\"提交工单申请免费试用，点击立即前往\\\",\\\"explainLink\\\":\\\"https://uc.jcloud.com/question/submit\\\"}]\",\"middleClstag\":\"Products|keycount|MiddleContentSec|39\",\"sectionClstag\":\"Products|keycount|SectionBannerSec|39\"}",
+		"id":"1524"
+	},
+	{
+		"txt":"[{\"description\":\"[]\",\"descriptionJson\":[],\"id\":129,\"instruction\":\"数据计算服务能够与京东云提供的数据集成、流计算、BI报表等工具无缝集成，能够帮助用户实现对企业数据的统一采集、存储、计算。数据计算服务提供了SQL/Python数据开发及作业执行能力，能够很好地支持数据清洗及数据加工逻辑，结合数据计算服务弹性的计算资源管理能力/完善的权限管理体系，能够帮助企业快速构建PB级的企业数据仓库。\",\"lang\":\"cn\",\"name\":\"构建企业数据仓库\",\"picUrl\":\"\",\"productId\":39,\"sort\":0,\"status\":0},{\"description\":\"[]\",\"descriptionJson\":[],\"id\":130,\"instruction\":\"数据计算服务作为新型的云数据仓库，不仅能够对数据仓库的数据进行处理分析，还提供了对云上对象存储的默认支持，用户可以利用弹性的数据计算服务以及SQL/Python计算环境，直接处理分析对象存储上的数据（如日志、文本、csv等类型的数据），处理完毕的数据可以写回到对象存储，同时释放相关计算资源，实现对数据的清洗加工场景的低成本支撑。\",\"lang\":\"cn\",\"name\":\"低成本的海量数据清洗\",\"picUrl\":\"\",\"productId\":39,\"sort\":0,\"status\":0}]",
+		"id":"1527"
+	}
+]
