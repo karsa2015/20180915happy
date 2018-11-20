@@ -1,0 +1,10 @@
+[
+	{
+		"txt":"{\"desc\":\"流计算是大数据场景下的实时数据处理与分析平台，支持用户以SQL方式编写数据处理作业，降低流式数据开发门槛，帮助用户快速构建流处理应用。\",\"iconUrl\":\"\",\"imageUrl\":\"//img1.jcloudcs.com/cms/3c8864f3-d6ec-4b5d-b16b-6d6b3a31cee320180419135016.jpg\",\"instruction\":\"[]\",\"middleClstag\":\"Products|keycount|MiddleContentSec|49\",\"sectionClstag\":\"Products|keycount|SectionBannerSec|49\"}",
+		"id":"1550"
+	},
+	{
+		"txt":"[{\"description\":\"[]\",\"descriptionJson\":[],\"id\":127,\"instruction\":\"传统数据仓库解决方案基于离线批量采集及分析，无法做到实时的数据分析功能。基于流计算可方便地对多种流式数据进行实时采集、实时分析，然后结合BI报表等组件，可快速搭建一套实时流数据分析应用。\",\"lang\":\"cn\",\"name\":\"实时数据分析\",\"picUrl\":\"\",\"productId\":49,\"sort\":0,\"status\":0},{\"description\":\"[]\",\"descriptionJson\":[],\"id\":128,\"instruction\":\"从传感器、智能终端等物联网设备接收、转换、整合和筛选流数据，支持每秒对数百万消息进行流式处理。\",\"lang\":\"cn\",\"name\":\"物联网\",\"picUrl\":\"\",\"productId\":49,\"sort\":0,\"status\":0}]",
+		"id":"1553"
+	}
+]
