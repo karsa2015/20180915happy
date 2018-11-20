@@ -1,0 +1,10 @@
+[
+	{
+		"txt":"{\"desc\":\"京东云BI报表一站式自助数据分析平台,支持拖拽式操作、丰富的可视化效果，海量数据瞬间可视化，帮助您轻松自如地完成数据分析、业务数据探查，充分挖掘企业数据价值\",\"iconUrl\":\"\",\"imageUrl\":\"//img1.jcloudcs.com/cms/21766641-88ea-4933-a61c-befbf89e61ac20180419122049.jpg\",\"instruction\":\"[{\\\"explain\\\":\\\"提交工单申请免费试用，点击立即前往\\\",\\\"explainLink\\\":\\\"https://uc.jdcloud.com/question/submit\\\"}]\",\"middleClstag\":\"Products|keycount|MiddleContentSec|40\",\"sectionClstag\":\"Products|keycount|SectionBannerSec|40\"}",
+		"id":"1528"
+	},
+	{
+		"txt":"[{\"description\":\"[]\",\"descriptionJson\":[],\"id\":122,\"instruction\":\"电商数据可视化，获得信息的最佳方式之一是通过视觉化方式，快速抓住要点信息，通过视觉化，把信息变成了一道可用眼睛来探索的风景线，一种信息地图。\",\"lang\":\"cn\",\"name\":\"跨境电商销售数据可视化\",\"picUrl\":\"//img1.jcloudcs.com/cms/01f43474-6ad9-42db-aade-eb2f9daecfa820180515115735.png\",\"productId\":40,\"sort\":0,\"status\":0},{\"description\":\"[]\",\"descriptionJson\":[],\"id\":123,\"instruction\":\"用户可通过BI产品的深度数据分析工作，通过回归、分类、聚类等算法，深度挖掘数据。实现数据化运营。\",\"lang\":\"cn\",\"name\":\"风险投资数据分析与预测\",\"picUrl\":\"//img1.jcloudcs.com/cms/773e1d27-b19f-4244-8434-a6e329b436db20180515131108.jpg\",\"productId\":40,\"sort\":0,\"status\":0},{\"description\":\"[{\\\"TitleUrl\\\":\\\"\\\",\\\"TitleName\\\":\\\"\\\"}]\",\"descriptionJson\":[{\"TitleName\":\"\",\"TitleUrl\":\"\"}],\"id\":185,\"instruction\":\"通过地图，词云，气泡图等图标生动的展示旅客出行特征。\",\"lang\":\"cn\",\"name\":\"互联网旅客出行数据分析\",\"picUrl\":\"//img1.jcloudcs.com/cms/5f8c30db-26ba-4a4d-b832-4e40b37113b420180515132229.jpg\",\"productId\":40,\"sort\":0,\"status\":0}]",
+		"id":"1531"
+	}
+]
