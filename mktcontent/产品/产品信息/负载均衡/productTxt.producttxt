@@ -1,0 +1,18 @@
+[
+	{
+		"txt":"{\"desc\":\"负载均衡可将大并发流量分发到多台云主机，调整资源利用情况，消除由于单台云主机故障对系统的影响，提高系统可用性、扩展系统服务能力。\",\"iconUrl\":\"\",\"imageUrl\":\"//img1.jcloudcs.com/cms/3917559f-1fc4-4759-b3a1-8ba59e631b3820180419120818.jpg\",\"instruction\":\"[]\",\"middleClstag\":\"Products|keycount|MiddleContentSec|6\",\"sectionClstag\":\"Products|keycount|SectionBannerSec|6\"}",
+		"id":"1461"
+	},
+	{
+		"txt":"[{\"proGoodTitle\":\"\",\"proNameTitle\":\"\",\"proDiffTitle\":\"\",\"proGood\":\"\",\"proName\":\"\",\"proDiff\":\"\"},{\"proGood\":\"\",\"proName\":\"\",\"proDiff\":\"\"},{\"proGood\":\"\",\"proName\":\"\",\"proDiff\":\"\"}]",
+		"id":"1462"
+	},
+	{
+		"txt":"[{\"funcName\":\"\",\"funcContent\":[{\"funcName\":\"\",\"funcTitle\":\"\",\"funcP\":\"\"},{\"funcName\":\"\",\"funcTitle\":\"\",\"funcP\":\"\"},{\"funcName\":\"\",\"funcTitle\":\"\",\"funcP\":\"\"},{\"funcName\":\"\",\"funcTitle\":\"\",\"funcP\":\"\"}]},{\"funcName\":\"\",\"funcContent\":[{\"funcName\":\"\",\"funcTitle\":\"\",\"funcP\":\"\"},{\"funcName\":\"\",\"funcTitle\":\"\",\"funcP\":\"\"},{\"funcName\":\"\",\"funcTitle\":\"\",\"funcP\":\"\"},{\"funcName\":\"\",\"funcTitle\":\"\",\"funcP\":\"\"}]},{\"funcName\":\"\",\"funcContent\":[]},{\"funcName\":\"\",\"funcContent\":[]},{\"funcName\":\"\",\"funcContent\":[]},{\"funcName\":\"\",\"funcContent\":[]},{\"funcName\":\"\",\"funcContent\":[]},{\"funcName\":\"\",\"funcContent\":[]}]",
+		"id":"1463"
+	},
+	{
+		"txt":"[{\"createTime\":1482268183000,\"description\":\"[]\",\"descriptionJson\":[],\"id\":6,\"instruction\":\"负载均衡可通过健康检查策略自动检测后端服务主机的可用状态，一旦发现主机运行异常则不会将流量继续转发到该主机，运行正常后自动恢复，也可以根据业务实际需求手动增删后端服务主机；如果需要更高的可用性保障，可以将资源部署在不同的可用区。\",\"lang\":\"cn\",\"name\":\"灵活调整业务负载规模，高可用需求\",\"operator\":\"zhuohao\",\"picUrl\":\"//img1.jcloudcs.com/cms/f60c5977-81d6-4f62-ab8b-64b161a4e70b20171206181033.png\",\"productId\":6,\"sort\":0,\"status\":0},{\"createTime\":1482268183000,\"description\":\"[]\",\"descriptionJson\":[],\"id\":7,\"instruction\":\"负载均衡可配置在内网环境，通过绑定公网IP提供对外服务，因此可隐藏内部网络结构，增强系统安全性；并且因内网部署，可通过设置防火墙等构建更加安全的防护体系。\",\"lang\":\"cn\",\"name\":\"高安全性需求\",\"operator\":\"zhuohao\",\"picUrl\":\"//img1.jcloudcs.com/cms/9748a8c2-c301-4e18-8018-0c18a6b660d120170426103758.jpg\",\"productId\":6,\"sort\":0,\"status\":0},{\"description\":\"[]\",\"descriptionJson\":[],\"id\":74,\"instruction\":\"支持HTTP监听协议下，通过负载均衡透传客户端真实IP地址，便于分析客户来源、统计运维数据等\",\"lang\":\"cn\",\"name\":\"真实客户来源分析\",\"picUrl\":\"//img1.jcloudcs.com/cms/f49b0dd2-d601-40ad-85ae-31fb21aaa4ca20170426110104.jpg\",\"productId\":6,\"sort\":0,\"status\":0},{\"description\":\"[]\",\"descriptionJson\":[],\"id\":75,\"instruction\":\"使用负载均衡可将流量相对均匀的分配给后端多台云主机，并且可以通过调度算法设置不同的流量分配方案，解决大流量、突发流量对系统造成的冲击，可应用于常规网站、大型业务网站、秒杀、抢购或其他可能导致突发流量增长的业务系统中。\",\"lang\":\"cn\",\"name\":\"应对大流量、突发流量\",\"picUrl\":\"//img1.jcloudcs.com/cms/37ea8dea-ce53-4510-877e-9ea42fbf884320170426110205.jpg\",\"productId\":6,\"sort\":0,\"status\":0}]",
+		"id":"1464"
+	}
+]
