@@ -1,0 +1,10 @@
+[
+	{
+		"txt":"{\"desc\":\"日志服务是针对日志类数据的一站式服务，在经历了多年的618和11.11考验，我们把内部日志服务系统提炼成可对外提供服务的日志服务平台,让企业快捷完成数据采集、消费、存储、查询等功能， 帮助企业提升运维、运营效率，建立数字技术时代海量日志处理服务平台。\",\"iconUrl\":\"\",\"imageUrl\":\"//img1.jcloudcs.com/cms/58dfb7c5-29c0-4f82-858c-8e1edc4c1d3a20180419121820.jpg\",\"instruction\":\"[]\",\"middleClstag\":\"Products|keycount|MiddleContentSec|37\",\"sectionClstag\":\"Products|keycount|SectionBannerSec|37\"}",
+		"id":"1514"
+	},
+	{
+		"txt":"[{\"description\":\"[]\",\"descriptionJson\":[],\"id\":63,\"instruction\":\"当请求/订单发生错误时，无须登录服务器，通过日志查询功能对错误、关键词、次数、等进行查询，快速定位问题\",\"lang\":\"cn\",\"name\":\"问题诊断\",\"picUrl\":\"\",\"productId\":37,\"sort\":0,\"status\":0},{\"description\":\"[]\",\"descriptionJson\":[],\"id\":64,\"instruction\":\"1. 审计主要体现在安全上，通过对日志进行分析，可以发现是否存在非授权的操作。\\n2. 通过日志查询功能，快速分析访问行为，如某个操作的操作记录\\n3. 通过日志长时间存储， 满足合规审计需求\\n\",\"lang\":\"cn\",\"name\":\"日志审计\",\"picUrl\":\"\",\"productId\":37,\"sort\":0,\"status\":0},{\"description\":\"[]\",\"descriptionJson\":[],\"id\":65,\"instruction\":\"1. 查询管理错误、访问、操作日志等\\n2. 通过不同的日志库、机器组对日志进行集中式管理\\n3. 对操作日志进行索引，进行实时查询\\n\",\"lang\":\"cn\",\"name\":\"运维/研发 查询管理\",\"picUrl\":\"\",\"productId\":37,\"sort\":0,\"status\":0},{\"description\":\"[]\",\"descriptionJson\":[],\"id\":66,\"instruction\":\"1. 通过实时处理，实时分析日志，可以监控系统的运行状态\\n2. 通过实时处理，可对设置的错误进行邮件或短信等其他方式告警\\n\",\"lang\":\"cn\",\"name\":\"监控预警\",\"picUrl\":\"\",\"productId\":37,\"sort\":0,\"status\":0}]",
+		"id":"1517"
+	}
+]
