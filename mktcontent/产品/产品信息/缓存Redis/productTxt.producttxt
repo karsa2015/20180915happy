@@ -1,0 +1,18 @@
+[
+	{
+		"txt":"{\"desc\":\"缓存Redis是京东云提供的基于Redis协议的在线缓存服务，支持主从版、集群版的多种规格供用户选择。可满足多种业务场景对可用性、可靠性和高读写性能的要求，支持双机热备，提供自动容灾切换、实例监控等服务，以降低业务风险，确保业务的连续性。\",\"iconUrl\":\"\",\"imageUrl\":\"//img1.jcloudcs.com/cms/3ae8b9f7-42cf-42f8-9dbf-f397ac740e8120180419120918.jpg\",\"instruction\":\"[{\\\"explain\\\":\\\"\\\",\\\"explainLink\\\":\\\"\\\"}]\",\"middleClstag\":\"Products|keycount|MiddleContentSec|8\",\"sectionClstag\":\"Products|keycount|SectionBannerSec|8\"}",
+		"id":"1469"
+	},
+	{
+		"txt":"[{\"proGoodTitle\":\"\",\"proNameTitle\":\"\",\"proDiffTitle\":\"\",\"proGood\":\"\",\"proName\":\"\",\"proDiff\":\"\"},{\"proGood\":\"\",\"proName\":\"\",\"proDiff\":\"\"},{\"proGood\":\"\",\"proName\":\"\",\"proDiff\":\"\"}]",
+		"id":"1470"
+	},
+	{
+		"txt":"[{\"funcName\":\"\",\"funcContent\":[{\"funcName\":\"\",\"funcTitle\":\"\",\"funcP\":\"\"}]},{\"funcName\":\"\",\"funcContent\":[{\"funcName\":\"\",\"funcTitle\":\"\",\"funcP\":\"\"}]}]",
+		"id":"1471"
+	},
+	{
+		"txt":"[{\"createTime\":1482269168000,\"description\":\"[]\",\"descriptionJson\":[],\"id\":10,\"instruction\":\"电商行业中，对大型促销秒杀、商品库存的实时更新、带有计数的应用、商品库存量、商品的实时推荐等，系统整体的访问压力巨大，使用缓存redis能够轻松承载巨大的瞬时读写压力并进行数据持久化；通过缓存Redis提供的强大性能支持，可提供高达100W+的QPS来轻松应对高并发访问\",\"lang\":\"cn\",\"name\":\"电商平台\",\"operator\":\"zhuohao\",\"picUrl\":\"\",\"productId\":8,\"sort\":0,\"status\":0},{\"createTime\":1482269168000,\"description\":\"[]\",\"descriptionJson\":[],\"id\":11,\"instruction\":\"视频直播行业中，爆发式的用户数据、互动数据、物品道具数据等出现的流量突发场景，缓存redis百万级的QPS可以满足低时延、高并发的业务需求\",\"lang\":\"cn\",\"name\":\"视频直播\",\"operator\":\"zhuohao\",\"picUrl\":\"\",\"productId\":8,\"sort\":0,\"status\":0},{\"createTime\":1482269168000,\"description\":\"[]\",\"descriptionJson\":[],\"id\":12,\"instruction\":\"在游戏行业中，为了快速抢占市场，加上本身对性能、交互的高要求，使用缓存Redis可以减少开发的复杂度并极大的提升性能，当业务持续增长的时候，可以平滑的进行扩容，满足各个阶段业务的需求；基于缓存Redis自身特点，比如每日任务、成就、各种积分排名、功能活动、玩家交际属性等策划案的实现，缓存Redis都有非常明显的优势\",\"lang\":\"cn\",\"name\":\"游戏行业\",\"operator\":\"zhuohao\",\"picUrl\":\"\",\"productId\":8,\"sort\":0,\"status\":0},{\"description\":\"[]\",\"descriptionJson\":[],\"id\":131,\"instruction\":\"网站、APP等对读写压力要求较高的应用，缓存Redis提供高QPS、构建队列系统、数据缓存、精准设定过期时间、数据持久化到RDS的应用等\",\"lang\":\"cn\",\"name\":\"互联网应用\",\"picUrl\":\"\",\"productId\":8,\"sort\":0,\"status\":0}]",
+		"id":"1472"
+	}
+]
