@@ -1,0 +1,10 @@
+[
+	{
+		"txt":"{\"desc\":\"Optical Character Recognition (OCR) Service can analyze and recognize text data in image files to obtain text content in the image. \\n For business license, name card and other scenarios, it can analyze the names, company names and other fields for customers to facilitate data entry.\",\"iconUrl\":\"&#xe762;\",\"imageUrl\":\"//img1.jcloudcs.com/cms/f464195c-dde4-4948-ab6f-9758634c462320180419122537.jpg\",\"instruction\":\"[{\\\"explain\\\":\\\"Free Experience\\\",\\\"explainLink\\\":\\\"http://ocr.jdcloud.com/#/ocrLicense\\\"}]\",\"middleClstag\":\"Products|keycount|MiddleContentSec|54\",\"sectionClstag\":\"Products|keycount|SectionBannerSec|54\"}",
+		"id":"54"
+	},
+	{
+		"txt":"[{\"createTime\":1496167158000,\"description\":\"[]\",\"descriptionJson\":[],\"id\":618,\"instruction\":\"Identify driver’s licenses, driving permits, business cards, ID cards, business licenses and the like, and quickly extract fields to help users quickly enter text messages in batches. And through face recognition, it can determine whether multiple certificates of a user are for the same person.\",\"lang\":\"en\",\"langId\":95,\"name\":\"Certificate Identification\",\"operator\":\"quning\",\"picUrl\":\"\",\"productId\":424,\"sort\":0,\"status\":0},{\"description\":\"[]\",\"descriptionJson\":[],\"id\":651,\"instruction\":\"The user can utilize Character Recognition OCR Server to accurately obtain the verbal content in the appointed picture, and quickly identify those exaggerated, politically sensitive and pornographic characters in the picture by making a comparative analysis on the prohibited keywords, so as to assist the administrator in content audit and control.\",\"lang\":\"en\",\"langId\":150,\"name\":\"Prohibited Character Recognition\",\"picUrl\":\"\",\"productId\":424,\"sort\":0,\"status\":0}]",
+		"id":"54"
+	}
+]
