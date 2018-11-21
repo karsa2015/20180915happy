@@ -1,0 +1,14 @@
+[
+	{
+		"txt":"{\"desc\":\"The Virtual Machines provided by JD Cloud is a cloud computing service unit that is easily managed, secure and reliable. Multiple Virtual Machines can be created and released at any time without input into the purchase and maintenance of hardware, enabling fast deployment and application. It can expand computing capacity based on service requirements by paying-as-demand, which saves cost and facilitates more efficient and stable implementation of business. \",\"iconUrl\":\"\",\"imageUrl\":\"//img1.jcloudcs.com/cms/d75f8fdf-489f-4897-ba68-86fba15e5c9020180419105927.jpg\",\"instruction\":\"[{\\\"explain\\\":\\\"\\\",\\\"explainLink\\\":\\\"\\\"}]\",\"middleClstag\":\"Products|keycount|MiddleContentSec|4\",\"sectionClstag\":\"Products|keycount|SectionBannerSec|4\"}",
+		"id":"4"
+	},
+	{
+		"txt":"[{\"description\":\"[]\",\"descriptionJson\":[],\"id\":584,\"instruction\":\"For the initial scenario of such applications, a lightweight deployment solution is often adopted, and a configuration with small-sized and low-bandwidth servers can meet the business demands, enabling the operation of such services as applications and databases. As the websites/application access increase and the services become more diversified, the cloud server instance types and scale can be adjusted rapidly to elastically adjust the resource allocation based on the service cycle, thus elastically improving the computing capability with low costs.\",\"lang\":\"en\",\"langId\":21,\"name\":\"Enterprise Website/Web Application/Mobile APP\",\"picUrl\":\"http://www-jcloud-com.oss.cn-stag-1.jcloudcs.com/en/30a00344-9b7e-49aa-8597-3d24dff542c620170421160301.jpg\",\"productId\":394,\"sort\":0,\"status\":0},{\"description\":\"[]\",\"descriptionJson\":[],\"id\":585,\"instruction\":\"In the practical massive picture/video applications (such as large e-commerce website), the Virtual Machines, in combination with Load Balancer, Object Storage Service cloud storage and CDN, can substantially shorten the access waiting time while saving costs for the users.\",\"lang\":\"en\",\"langId\":31,\"name\":\"Mass picture/video and other applications\",\"picUrl\":\"http://www-jcloud-com.oss.cn-stag-1.jcloudcs.com/en/d7ff1070-2106-469c-8f21-acce80be143620171205150124.jpg\",\"productId\":394,\"sort\":0,\"status\":0}]",
+		"id":"4"
+	},
+	{
+		"txt":"{\"opraUrl\":\"//img1.jcloudcs.com/en/en54ed7dcb-c76b-4213-a5b6-152291a8a573c23b3443d443g3201809141340043351.png\",\"opraWebUrl\":\"https://www.jdcloud.com/activity/intel\"}",
+		"id":"4"
+	}
+]
