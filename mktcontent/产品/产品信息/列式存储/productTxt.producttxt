@@ -1,0 +1,6 @@
+[
+	{
+		"txt":"{\"desc\":\"Column-oriented Storage is a high-performance, Auto Scaling, column-oriented distributed database based on Hadoop and 100% compatible with HBase protocol. It easily supports PB-level big data storage and meets ten million-level QPS high-throughput random read and write scenarios. \\n\\n Under internal test. Coming soon. \\n\\n\\n\",\"iconUrl\":\"\",\"imageUrl\":\"//img1.jcloudcs.com/cms/8c390255-5fac-47b7-8c16-2ba0701d9cae20180620152331.jpg\",\"instruction\":\"[{\\\"explain\\\":\\\"\\\",\\\"explainLink\\\":\\\"\\\"}]\",\"middleClstag\":\"Products|keycount|MiddleContentSec|81\",\"sectionClstag\":\"Products|keycount|SectionBannerSec|81\"}",
+		"id":"81"
+	}
+]
