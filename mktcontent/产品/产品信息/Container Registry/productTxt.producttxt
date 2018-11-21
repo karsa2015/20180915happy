@@ -1,0 +1,10 @@
+[
+	{
+		"txt":"{\"desc\":\"Container Registry is a fully hosted docker image storage and distribution platform that provides secure and reliable image services, seamlessly integrating with JD Cloud Native Container and JCS for Kubernetes to provide one-stop deployment services for container application. \\n</br>\\n</br><b>Enjoy 90% off during beta, welcome to use this product</b>\",\"iconUrl\":\"\",\"imageUrl\":\"//img1.jcloudcs.com/cms/c81d2d5d-0040-4e03-bf7a-8ca90639abed20180824142329.jpg\",\"middleClstag\":\"Products|keycount|MiddleContentSec|96\",\"sectionClstag\":\"Products|keycount|SectionBannerSec|96\"}",
+		"id":"96"
+	},
+	{
+		"txt":"[{\"description\":\"[{\\\"TitleUrl\\\":\\\"https://www.jdcloud.com/products/dockers\\\",\\\"TitleName\\\":\\\"Native Container\\\"},{\\\"TitleUrl\\\":\\\"https://www.jdcloud.com/products/KubernetesCluster\\\",\\\"TitleName\\\":\\\"Kubernetes Service\\\"}]\",\"descriptionJson\":[{\"TitleName\":\"Native Container\",\"TitleUrl\":\"https://www.jdcloud.com/products/dockers\"},{\"TitleName\":\"Kubernetes Service\",\"TitleUrl\":\"https://www.jdcloud.com/products/KubernetesCluster\"}],\"id\":712,\"instruction\":\"The users submit the image to the container registry, create docker image and conduct management. Pull the image from the container registry through the native container and JCS for Kubernetes to conduct relevant application deployment.\",\"lang\":\"en\",\"langId\":280,\"name\":\"Continuous Deployment of Containerized Applications\",\"picUrl\":\"http://www-jcloud-com.oss.cn-stag-1.jcloudcs.com/en/5fbff44e-15a1-40c4-8dde-957b8662f5ee20180907103215.png\",\"productId\":462,\"sort\":0,\"status\":0},{\"description\":\"[{\\\"TitleUrl\\\":\\\"\\\",\\\"TitleName\\\":\\\"\\\"}]\",\"descriptionJson\":[{\"TitleName\":\"\",\"TitleUrl\":\"\"}],\"id\":713,\"instruction\":\"\",\"lang\":\"en\",\"langId\":281,\"name\":\"\",\"picUrl\":\"\",\"productId\":462,\"sort\":0,\"status\":0}]",
+		"id":"96"
+	}
+]
