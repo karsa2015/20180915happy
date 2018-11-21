@@ -10,7 +10,7 @@
       compatible: true,
       preload: false,
       navId: "jdhome2016",
-	  timestamp: 1542780248000, 
+	  timestamp: 1542780595000, 
       isEnablePDBP: 0,
 		surveyLink : "//surveys.jd.com/index.php?r=survey/index/sid/889711/newtest/Y/lang/zh-Hans",
 		leftCateABtestSwitch : 0,
@@ -280,11 +280,11 @@ margin: 0 0 0 15px !important;
 	<a href="//yp.jd.com/7378439f822c457ead0.html">2000左右三门冰箱</a>
 	<a href="//yp.jd.com/7370b73e9a4f876279e.html">173升双门冰箱</a>
 	<a href="//yp.jd.com/737b7798134c38f6f7c.html">180升电冰箱</a>
-	<a href="//www.jd.com/phb/key_737a9ae76905924caa7.html">海尔（Haier）十字对开门定频冰箱</a>
-	<a href="//www.jd.com/phb/key_737af86b60be913bcdf.html">统帅（Leader）对开门冰箱</a>
-	<a href="//www.jd.com/phb/key_7377e61e62eda3d7160.html">松下冰箱进口</a>
-	<a href="//www.jd.com/phb/key_737d0db45e1dde08c9a.html">容声（Ronshen）彩钢冰箱</a>
-	<a href="//www.jd.com/phb/key_7370a1bac81f5af88da.html">电冰箱万宝</a>
+	<a href="//www.jd.com/phb/key_737eec462929dc37996.html">德努希（DENUSSI）双门定频冰箱</a>
+	<a href="//www.jd.com/phb/key_737f8bcd87438789ecc.html">海尔（Haier）对开门风冷（无霜）冰箱</a>
+	<a href="//www.jd.com/phb/key_7372e3dbcbcbed4da06.html">航天民生十字对开门冰箱</a>
+	<a href="//www.jd.com/phb/key_73781eb0406ff30d539.html">海尔冰箱三开</a>
+	<a href="//www.jd.com/phb/key_73786ce37c263168706.html">统帅（Leader）</a>
 </div>
 <!-- CLUB_LINK end -->
     <div class="fs">
