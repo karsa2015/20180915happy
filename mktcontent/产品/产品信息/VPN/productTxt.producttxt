@@ -1,0 +1,6 @@
+[
+	{
+		"txt":"{\"desc\":\"VPN connection uses public IP to set up private network and realizes Intranet access by external users and cross-region Intranet communication through an encrypted channel.For example, the enterprise data center and the JD Cloud Virtual Private Cloud (VPC) can be connected through VPN private network to provide secure and reliable multicloud deployment.. To activate this feature, please contact operators through the number of: 4006151212.\",\"iconUrl\":\"\",\"imageUrl\":\"//img1.jcloudcs.com/cms/2777bf35-c59f-4a8d-a3ce-87d676fda0ed20180419121435.jpg\",\"instruction\":\"[{\\\"explain\\\":\\\"\\\",\\\"explainLink\\\":\\\"\\\"}]\",\"middleClstag\":\"Products|keycount|MiddleContentSec|24\",\"sectionClstag\":\"Products|keycount|SectionBannerSec|24\"}",
+		"id":"24"
+	}
+]
