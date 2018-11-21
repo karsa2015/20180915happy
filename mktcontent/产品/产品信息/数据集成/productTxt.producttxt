@@ -1,0 +1,10 @@
+[
+	{
+		"txt":"{\"desc\":\"Data Integration is an efficient, reliable and secure one-stop synchronization platform to access multi-data source provided by JD Cloud. It can open data island, perform data synchronization and offline handling services across heterogeneous data storage system, and provide full/incremental data entry and exit channels for data source.\",\"iconUrl\":\"&#xe9d4;\",\"imageUrl\":\"//img1.jcloudcs.com/cms/87be2442-b2bd-4a83-bd0f-fc7946ef641e20180524145650.jpg\",\"middleClstag\":\"Products|keycount|MiddleContentSec|75\",\"sectionClstag\":\"Products|keycount|SectionBannerSec|75\"}",
+		"id":"75"
+	},
+	{
+		"txt":"[{\"createTime\":1526514537000,\"description\":\"[]\",\"descriptionJson\":[],\"id\":668,\"instruction\":\"Enterprises can utilize the data integration service to carry out data synchronization tasks for Cloud Database, Object Storage Service and data interface services (database/FTP service adaptive to JDBC) in a quick and low-cost way. Through dispatcher task management, the enterprises can easily realize periodic data access of data warehouse for different data sources.\",\"lang\":\"en\",\"langId\":186,\"name\":\"Data Access to Cloud Data Warehouse\",\"operator\":\"wangwei538\",\"picUrl\":\"\",\"productId\":442,\"sort\":0,\"status\":0},{\"createTime\":1526514537000,\"description\":\"[]\",\"descriptionJson\":[],\"id\":669,\"instruction\":\"Data Integration provides a convenient tool (Client and SDK), making it convenient for the users to upload the local file and local database (mysql, oracle, sql server and DB2) data to the cloud data warehouse (Data Compute) in the local environment based on the mode of command line /SDK. In addition, this tool can also be used to download the cloud data warehouse to local, substantially lowering the threshold of local enterprise data to Cloud.\",\"lang\":\"en\",\"langId\":187,\"name\":\"Local Data Migration to Cloud\",\"operator\":\"wangwei538\",\"picUrl\":\"\",\"productId\":442,\"sort\":0,\"status\":0}]",
+		"id":"75"
+	}
+]
