@@ -1,42 +1,42 @@
 [
 	{
-		"name":"7*24 After-sales Support",
+		"name":"7*24小时售后支持",
 		"id":"1",
-		"label":"Exclusive"
+		"label":"专"
 	},
 	{
-		"name":"VIP One-to-one Service",
+		"name":"VIP一对一服务",
 		"id":"2",
-		"label":"VIP"
+		"label":"尊"
 	},
 	{
-		"name":"Free ICP License Service",
+		"name":"免费备案服务",
 		"id":"3",
-		"label":"Filing"
+		"label":"备"
 	},
 	{
-		"name":"100 Times Fault Delay Compensation",
+		"name":"100倍故障延时赔偿",
 		"id":"4",
-		"label":"Compensation"
+		"label":"赔"
 	},
 	{
-		"name":"Limited Time Offer",
-		"description":"1 RMB to get member package",
+		"name":"京东云刊",
+		"description":"以资讯感知技术温度",
 		"id":"5"
 	},
 	{
-		"name":"Database Solutions",
-		"description":"Effortlessly deploy and utilize a wide selection of databases",
+		"name":"Web应用防火墙",
+		"description":"免费申请专业防护",
 		"id":"6"
 	},
 	{
-		"name":"JCS for Kubernetes",
-		"description":"Powerful container-managed services",
+		"name":"云物理服务器",
+		"description":"高性能、安全隔离",
 		"id":"7"
 	},
 	{
-		"name":"Container Registry",
-		"description":"90% off during the beta period",
+		"name":"京东云Plus服务1",
+		"description":"企业一站式服务",
 		"id":"8"
 	}
 ]
