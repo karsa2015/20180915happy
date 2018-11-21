@@ -1,0 +1,10 @@
+[
+	{
+		"txt":"{\"desc\":\"Intelligent Anti-porn provides accurate and efficient erotic image authentication services based on advanced deep learning and computer vision algorithms. It can be applied to business scenarios such as child security online and live pornographic review, reducing the enterprise’s cost of auditing labor and the risk of non-compliance.\",\"iconUrl\":\"&#xe758;\",\"imageUrl\":\"//img1.jcloudcs.com/cms/f39e2bf1-27a7-4ee7-84f0-8b702548154c20180419122430.jpg\",\"instruction\":\"[{\\\"explain\\\":\\\" Experience the intelligent anti-porn service now\\\",\\\"explainLink\\\":\\\"http://cognitive-console.jdcloud.com/ex/porn.html\\\"}]\",\"middleClstag\":\"Products|keycount|MiddleContentSec|50\",\"sectionClstag\":\"Products|keycount|SectionBannerSec|50\"}",
+		"id":"50"
+	},
+	{
+		"txt":"[{\"description\":\"[]\",\"descriptionJson\":[],\"id\":617,\"instruction\":\"Once the live video business involves pornographic contents, it will cause negative effects, including user complaint and punishment by the supervision department. It is difficult for traditional manual audit to cover all live contents. Besides, its manpower costs are relatively high as well. Real-time screenshot of live pictures by means of video frame extraction and porn identification through intelligent anti-porn service can find the irregular contents in time, and lower the enterprise risks and manpower investment.\",\"lang\":\"en\",\"langId\":92,\"name\":\"Live Video of Porn Detection\",\"picUrl\":\"\",\"productId\":421,\"sort\":0,\"status\":0}]",
+		"id":"50"
+	}
+]
