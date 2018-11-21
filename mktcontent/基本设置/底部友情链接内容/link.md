@@ -1,42 +1,42 @@
 [
 	{
-		"name":"JD open platform",
+		"name":"京东开放平台",
 		"id":"11"
 	},
 	{
-		"name":"JD Service Marketplace",
+		"name":"京东服务市场",
 		"id":"12"
 	},
 	{
-		"name":"JD Mall",
+		"name":"京东商城",
 		"id":"13"
 	},
 	{
-		"name":"JD Finance",
+		"name":"京东金融",
 		"id":"14"
 	},
 	{
-		"name":"JD Canghai",
+		"name":"京东沧海",
 		"id":"15"
 	},
 	{
-		"name":"JD Enterprise Purchase",
+		"name":"京东企业购",
 		"id":"16"
 	},
 	{
-		"name":"Enterprise Financial Service",
+		"name":"企业金融服务1",
 		"id":"17"
 	},
 	{
-		"name":"JD Kepler",
+		"name":"京东开普勒",
 		"id":"18"
 	},
 	{
-		"name":"JD Good Appraisal",
+		"name":"京东优评",
 		"id":"20"
 	},
 	{
-		"name":"JDATA Intelligent Platform",
+		"name":"JDATA智汇平台",
 		"id":"23"
 	}
 ]
