@@ -1,0 +1,10 @@
+[
+	{
+		"txt":"{\"desc\":\"JD Cloud PLUS Enterprise Cloud BOX is a secure and easy-to-use enterprise-level Document Management platform that meets the service scenarios of enterprise Document Management, collaborative office and cross-terminal use.\",\"iconUrl\":\"\",\"imageUrl\":\"//img1.jcloudcs.com/cms/598d100b-537f-4bae-bf42-89642b5265a120180820132755.png\",\"middleClstag\":\"Products|keycount|MiddleContentSec|90\",\"sectionClstag\":\"Products|keycount|SectionBannerSec|90\"}",
+		"id":"90"
+	},
+	{
+		"txt":"[{\"createTime\":1534359170000,\"description\":\"[]\",\"descriptionJson\":[],\"id\":698,\"instruction\":\"Unified and centralized data management; prevent data assets from losing; application and access right control; detail data report; low construction and maintenance costs;\",\"lang\":\"en\",\"langId\":246,\"name\":\"Enterprise Management Demand\",\"operator\":\"houyinglong1\",\"picUrl\":\"http://www-jcloud-com.oss.cn-stag-1.jcloudcs.com/en/b61ef7db-5788-403b-a0c5-19a559e0d1d520180816105149.png\",\"productId\":456,\"sort\":0,\"status\":0},{\"createTime\":1534359170000,\"description\":\"[]\",\"descriptionJson\":[],\"id\":699,\"instruction\":\"Storage and backup of work results; access anytime, anywhere; quickly sharing information; intelligent and comprehensive search; simple and familiar operation;\",\"lang\":\"en\",\"langId\":247,\"name\":\"Employee Application Demand\",\"operator\":\"houyinglong1\",\"picUrl\":\"http://www-jcloud-com.oss.cn-stag-1.jcloudcs.com/en/9e286e2d-0ca9-4b16-ad35-c7f27d189db820180816105227.png\",\"productId\":456,\"sort\":0,\"status\":0}]",
+		"id":"90"
+	}
+]
