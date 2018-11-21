@@ -1,0 +1,22 @@
+[
+	{
+		"channel_agent":"京  东  云",
+		"id":"7"
+	},
+	{
+		"channel_agent":"大数据1",
+		"id":"5"
+	},
+	{
+		"channel_agent":"电商",
+		"id":"4"
+	},
+	{
+		"channel_agent":"政务云",
+		"id":"3"
+	},
+	{
+		"channel_agent":"京东云",
+		"id":"2"
+	}
+]
