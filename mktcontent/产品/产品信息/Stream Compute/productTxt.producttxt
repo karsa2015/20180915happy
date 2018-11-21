@@ -1,0 +1,10 @@
+[
+	{
+		"txt":"{\"desc\":\"Stream Compute is a real-time data processing and analysis platform in the big data scenario. It supports users to write data processing jobs in SQL mode, reduces the threshold of stream development, and helps users quickly build stream processing applications.\",\"iconUrl\":\"\",\"imageUrl\":\"//img1.jcloudcs.com/cms/3c8864f3-d6ec-4b5d-b16b-6d6b3a31cee320180419135016.jpg\",\"instruction\":\"[{\\\"explain\\\":\\\"\\\",\\\"explainLink\\\":\\\"\\\"}]\",\"middleClstag\":\"Products|keycount|MiddleContentSec|49\",\"sectionClstag\":\"Products|keycount|SectionBannerSec|49\"}",
+		"id":"49"
+	},
+	{
+		"txt":"[{\"description\":\"[]\",\"descriptionJson\":[],\"id\":636,\"instruction\":\"Traditional data warehouse solutions are based on off-line batch acquisition and analysis, and thus cannot achieve real-time data analysis. Based on Stream Compute, it can conveniently collect and analyze various streams in a real-time manner, and then in combination with BI report and other components, it can quickly build a real-time stream analysis application.\",\"lang\":\"en\",\"langId\":127,\"name\":\"Real-time data analysis\",\"picUrl\":\"\",\"productId\":420,\"sort\":0,\"status\":0},{\"description\":\"[]\",\"descriptionJson\":[],\"id\":637,\"instruction\":\"Reception, conversion, integration and filtration of stream data from sensors, intelligent terminals and other IoT devices that enable streaming processing of millions of messages per second.\",\"lang\":\"en\",\"langId\":128,\"name\":\"Internet of Things\",\"picUrl\":\"\",\"productId\":420,\"sort\":0,\"status\":0}]",
+		"id":"49"
+	}
+]
