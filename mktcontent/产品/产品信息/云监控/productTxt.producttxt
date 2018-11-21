@@ -1,0 +1,6 @@
+[
+	{
+		"txt":"{\"desc\":\"The Monitoring provides users with services monitoring users' JD Cloud resources and raising alarms. It monitors and displays various indicators and raises alarm over the monitoring indicators. The Monitoring will send alarm notifications via SMS, E-mail, etc. It also provides users with current alarm status and alarm history. With monitoring service, it helps customers master the status of resource usage, performance and operation on JD Cloud; and with alarm service, it enables customers to make timely response to ensure the stable operation of the application.\",\"iconUrl\":\"\",\"imageUrl\":\"//img1.jcloudcs.com/cms/8ec28cb4-db92-4892-af63-37e62a3e498f20180419121207.jpg\",\"instruction\":\"[]\",\"middleClstag\":\"Products|keycount|MiddleContentSec|11\",\"sectionClstag\":\"Products|keycount|SectionBannerSec|11\"}",
+		"id":"11"
+	}
+]
