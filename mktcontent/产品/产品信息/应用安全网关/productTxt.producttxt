@@ -1,0 +1,10 @@
+[
+	{
+		"txt":"{\"desc\":\"Application Security Gateway is a product that provides visual security analysis and application layer threat protection for websites or APP services. By providing features such as WAF, user access audit, service security visibility and compliance check, it can guarantee stable and continuous operation of the service, improve user experience, and solve the abnormality or compliance problems of HTTP/HTTPS service caused by attacks to network service provider.\",\"iconUrl\":\"\",\"imageUrl\":\"//img1.jcloudcs.com/cms/9c9d0868-ee10-43a5-a83a-0bb513776f3120180419123533.jpg\",\"middleClstag\":\"Products|keycount|MiddleContentSec|68\",\"sectionClstag\":\"Products|keycount|SectionBannerSec|68\"}",
+		"id":"68"
+	},
+	{
+		"txt":"[{\"description\":\"[]\",\"descriptionJson\":[],\"id\":660,\"instruction\":\"Application Security Gateway can associate EIP's Load Balancer and the Load Balancer in VPC for collaborative work. Therefore, it can defend the Internet attack and internal attack from VPC.\",\"lang\":\"en\",\"langId\":173,\"name\":\"Defensive Deployment Scheme with High Flexibility\",\"picUrl\":\"http://www-jcloud-com.oss.cn-stag-1.jcloudcs.com/en/c7a75244-9169-43a6-9059-70ff4240947920180413181942.png\",\"productId\":436,\"sort\":0,\"status\":0}]",
+		"id":"68"
+	}
+]
