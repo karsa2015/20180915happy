@@ -1,0 +1,10 @@
+[
+	{
+		"txt":"{\"desc\":\"Efficient computing service provided based on GPU, which is suitable for multi-domain scenarios such as artificial intelligence, image processing, deep learning, and scientific computing. It has real-time high speed, providing excellent concurrent computing and floating-point computing capabilities to quickly build heterogeneous computing applications.\",\"iconUrl\":\"\",\"imageUrl\":\"//img1.jcloudcs.com/cms/efa9f9e1-27bb-4317-88c5-d424d466bc0320180419121728.jpg\",\"instruction\":\"[{\\\"explain\\\":\\\"Apply for the qualification and someone will serve you\\\",\\\"explainLink\\\":\\\"//answer.jd.com/jump/?shortCode=kMkJKMKjPwVY&surveyId=1561624\\\"}]\",\"middleClstag\":\"Products|keycount|MiddleContentSec|34\",\"sectionClstag\":\"Products|keycount|SectionBannerSec|34\"}",
+		"id":"34"
+	},
+	{
+		"txt":"[{\"description\":\"[]\",\"descriptionJson\":[],\"id\":605,\"instruction\":\"JD Cloud GPU Virtual Machine is committed to speeding up large-scale artificial intelligence application programs, and providing excellent user experience. It was especially forged to provide extra-large throughput necessary for processing of explosive data bulk. You can build artificial intelligence platforms based on GPU Virtual Machine for model training or online prediction. \\n\",\"lang\":\"en\",\"langId\":72,\"name\":\"AI\",\"picUrl\":\"http://www-jcloud-com.oss.cn-stag-1.jcloudcs.com/en/cafb10a0-4087-4d3e-9285-aaee7f55808e20170906192152.png\",\"productId\":410,\"sort\":0,\"status\":0},{\"description\":\"[]\",\"descriptionJson\":[],\"id\":606,\"instruction\":\"JD Cloud GPU Virtual Machine provides the high-performance computing power required for rendering, enabling online graphics rendering processing, greatly shortening the production cycle and improving overall efficiency.\",\"lang\":\"en\",\"langId\":73,\"name\":\"Image Rendering\",\"picUrl\":\"http://www-jcloud-com.oss.cn-stag-1.jcloudcs.com/en/19e3d4b1-4f2e-42d9-9ab8-8bb95ebf1a2020170906192211.png\",\"productId\":410,\"sort\":0,\"status\":0}]",
+		"id":"34"
+	}
+]
