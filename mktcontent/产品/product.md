@@ -1,298 +1,298 @@
 [
 	{
-		"name":"Virtual Machines",
-		"id":"4"
+		"name":"云主机",
+		"id":4
 	},
 	{
-		"name":"Cloud Disk Service",
-		"id":"5"
+		"name":"云硬盘",
+		"id":5
 	},
 	{
-		"name":"Load Balancer",
-		"id":"6"
+		"name":"负载均衡",
+		"id":6
 	},
 	{
-		"name":"JCS for MySQL",
-		"id":"7"
+		"name":"云数据库 MySQL",
+		"id":7
 	},
 	{
-		"name":"JCS for Redis",
-		"id":"8"
+		"name":"缓存Redis",
+		"id":8
 	},
 	{
-		"name":"Object Storage Service",
-		"id":"9"
+		"name":"对象存储",
+		"id":9
 	},
 	{
-		"name":"Anti-DDoS Basic",
-		"id":"10"
+		"name":"DDoS基础防护",
+		"id":10
 	},
 	{
-		"name":"Monitoring",
-		"id":"11"
+		"name":"云监控",
+		"id":11
 	},
 	{
-		"name":"IAM",
-		"id":"12"
+		"name":"访问控制",
+		"id":12
 	},
 	{
 		"name":"CDN",
-		"id":"13"
+		"id":13
 	},
 	{
-		"name":"Virtual Private Cloud",
-		"id":"23"
+		"name":"私有网络",
+		"id":23
 	},
 	{
 		"name":"VPN",
-		"id":"24"
+		"id":24
 	},
 	{
-		"name":"Big Data Analysis Platform",
-		"id":"25"
+		"name":"大数据分析平台",
+		"id":25
 	},
 	{
-		"name":"Security Consulting Service",
-		"id":"29"
+		"name":"安全咨询",
+		"id":29
 	},
 	{
-		"name":"JCS for MongoDB",
-		"id":"31"
+		"name":"云数据库 MongoDB",
+		"id":31
 	},
 	{
-		"name":"Native Container",
-		"id":"32"
+		"name":"原生容器",
+		"id":32
 	},
 	{
-		"name":"GPU VM",
-		"id":"34"
+		"name":"GPU服务器",
+		"id":34
 	},
 	{
-		"name":"Log Service",
-		"id":"37"
+		"name":"日志服务",
+		"id":37
 	},
 	{
 		"name":"JMR",
-		"id":"38"
+		"id":38
 	},
 	{
-		"name":"Data Compute",
-		"id":"39"
+		"name":"数据计算服务",
+		"id":39
 	},
 	{
-		"name":"BI Report",
-		"id":"40"
+		"name":"BI报表",
+		"id":40
 	},
 	{
-		"name":"Data Factory",
-		"id":"41"
+		"name":"数据工厂",
+		"id":41
 	},
 	{
-		"name":"Stream Hub",
-		"id":"44"
+		"name":"流数据总线",
+		"id":44
 	},
 	{
-		"name":"Endpoint Security",
-		"id":"45"
+		"name":"主机安全",
+		"id":45
 	},
 	{
-		"name":"Portrait Analysis",
-		"id":"46"
+		"name":"画像分析",
+		"id":46
 	},
 	{
-		"name":"Open Search",
-		"id":"48"
+		"name":"开放搜索",
+		"id":48
 	},
 	{
-		"name":"Stream Compute",
-		"id":"49"
+		"name":"流计算",
+		"id":49
 	},
 	{
-		"name":"Intelligent Anti-porn",
-		"id":"50"
+		"name":"智能鉴黄",
+		"id":50
 	},
 	{
-		"name":"Computing Master",
-		"id":"51"
+		"name":"神算子",
+		"id":51
 	},
 	{
-		"name":"Model Training",
-		"id":"52"
+		"name":"模型训练",
+		"id":52
 	},
 	{
-		"name":"Text Recognition OCR",
-		"id":"54"
+		"name":"文字识别 OCR",
+		"id":54
 	},
 	{
-		"name":"Data Visualization",
-		"id":"56"
+		"name":"数据大屏",
+		"id":56
 	},
 	{
-		"name":"Face Recognition",
-		"id":"57"
+		"name":"人脸识别",
+		"id":57
 	},
 	{
-		"name":"Cloud Database JCS for SQL Server",
-		"id":"58"
+		"name":"云数据库 SQL Server",
+		"id":58
 	},
 	{
-		"name":"SSL Certificate",
-		"id":"59"
+		"name":"SSL数字证书",
+		"id":59
 	},
 	{
-		"name":"Direct Connection",
-		"id":"60"
+		"name":"专线服务",
+		"id":60
 	},
 	{
-		"name":"Anti-DDoS Pro",
-		"id":"61"
+		"name":"IP 高防",
+		"id":61
 	},
 	{
-		"name":"Auto Scaling",
-		"id":"62"
+		"name":"弹性伸缩",
+		"id":62
 	},
 	{
-		"name":"Situation Awareness",
-		"id":"63"
+		"name":"态势感知",
+		"id":63
 	},
 	{
-		"name":"Cloud Resolution DNS",
-		"id":"64"
+		"name":"云解析 DNS",
+		"id":64
 	},
 	{
-		"name":"User Behavior Analysis",
-		"id":"66"
+		"name":"用户行为分析",
+		"id":66
 	},
 	{
-		"name":"Live Video",
-		"id":"67"
+		"name":"视频直播",
+		"id":67
 	},
 	{
-		"name":"Application Security Gateway",
-		"id":"68"
+		"name":"应用安全网关",
+		"id":68
 	},
 	{
 		"name":"DevOps",
-		"id":"70"
+		"id":70
 	},
 	{
-		"name":"NAT Gateway",
-		"id":"71"
+		"name":"NAT 网关",
+		"id":71
 	},
 	{
-		"name":"Media Processing Service",
-		"id":"72"
+		"name":"媒体处理服务",
+		"id":72
 	},
 	{
-		"name":"NF1 ADC",
-		"id":"73"
+		"name":"用户接入",
+		"id":73
 	},
 	{
-		"name":"NLP Analysis",
-		"id":"74"
+		"name":"NLP分析",
+		"id":74
 	},
 	{
-		"name":"Data Integration",
-		"id":"75"
+		"name":"数据集成",
+		"id":75
 	},
 	{
-		"name":"Availability Group",
-		"id":"76"
+		"name":"高可用组",
+		"id":76
 	},
 	{
-		"name":"Cloud Database Percona",
-		"id":"77"
+		"name":"云数据库 Percona",
+		"id":77
 	},
 	{
-		"name":"TiDB Service",
-		"id":"78"
+		"name":"分布式数据库 TiDB",
+		"id":78
 	},
 	{
-		"name":"Cloud Physical Server",
-		"id":"79"
+		"name":"云物理服务器",
+		"id":79
 	},
 	{
-		"name":"Column-oriented Storage",
-		"id":"81"
+		"name":"列式存储",
+		"id":81
 	},
 	{
-		"name":"Distributed Relational Database DRDS",
-		"id":"82"
+		"name":"分布式关系型数据库 DRDS",
+		"id":82
 	},
 	{
-		"name":"Web Application Firewall",
-		"id":"83"
+		"name":"Web应用防火墙",
+		"id":83
 	},
 	{
-		"name":"Elastic Network Interface",
-		"id":"84"
+		"name":"弹性网卡",
+		"id":84
 	},
 	{
-		"name":"Message Queue",
-		"id":"85"
+		"name":"消息队列 JCQ",
+		"id":85
 	},
 	{
-		"name":"JCS for Kubernetes",
-		"id":"86"
+		"name":"Kubernetes集群",
+		"id":86
 	},
 	{
-		"name":"Network Load Balancer",
-		"id":"87"
+		"name":"网络负载均衡",
+		"id":87
 	},
 	{
-		"name":"Block Chain BaaS Platform",
-		"id":"88"
+		"name":"区块链BaaS平台",
+		"id":88
 	},
 	{
-		"name":"Block Chain Data Service",
-		"id":"89"
+		"name":"区块链数据服务",
+		"id":89
 	},
 	{
-		"name":"PLUS Enterprise Cloud BOX",
-		"id":"90"
+		"name":"PLUS企业云盘",
+		"id":90
 	},
 	{
-		"name":"PLUS Enterprise Email",
-		"id":"91"
+		"name":"PLUS企业邮箱",
+		"id":91
 	},
 	{
-		"name":"JCS for MariaDB",
-		"id":"92"
+		"name":"云数据库 MariaDB",
+		"id":92
 	},
 	{
-		"name":"Cloud Cabinet Service",
-		"id":"93"
+		"name":"云托管服务",
+		"id":93
 	},
 	{
-		"name":"CodeBuild",
-		"id":"94"
+		"name":"云编译",
+		"id":94
 	},
 	{
-		"name":"PLUS Meeting",
-		"id":"95"
+		"name":"PLUS云会议",
+		"id":95
 	},
 	{
-		"name":"Container Registry",
-		"id":"96"
+		"name":"容器镜像仓库",
+		"id":96
 	},
 	{
-		"name":"CodeCommit",
-		"id":"97"
+		"name":"代码托管",
+		"id":97
 	},
 	{
-		"name":"JCS for Elasticsearch",
-		"id":"98"
+		"name":"云搜索Elasticsearch",
+		"id":98
 	},
 	{
-		"name":"Anti-DDoS Protection Package",
-		"id":"99"
+		"name":"DDoS防护包",
+		"id":99
 	},
 	{
-		"name":"API Gateway",
-		"id":"100"
+		"name":"API 网关",
+		"id":100
 	},
 	{
-		"name":"JD WorkSpaces",
-		"id":"101"
+		"name":"京东云桌面",
+		"id":101
 	}
 ]
