@@ -1,47 +1,47 @@
 [
 	{
-		"name":"Products and Services",
-		"description":"Enterprise level cloud services and IT infrastructures to empower your innovations",
+		"name":"安全、稳定、可信赖的云计算产品",
+		"description":"计算、存储、网络、大数据，优质IT资源为您的业务腾飞保驾护航",
 		"id":"1"
 	},
 	{
-		"name":"JD Cloud News",
-		"description":"Latest products and business news about JD Cloud",
+		"name":"京东云动态",
+		"description":"产品动态抢先看，创新与进步只为给您带来卓越体验",
 		"id":"2"
 	},
 	{
-		"name":"Industrial Solutions",
-		"description":"Leading industrial solution with professional expertise to support your business",
+		"name":"成熟、领先的解决方案",
+		"description":"行业纵深，直达痛点，专业经验为您解决多种业务难题",
 		"id":"4"
 	},
 	{
-		"name":"JD Cloud Marketplace",
-		"description":"Accelerate your solution with rich categories of softwares and services from ISVs",
+		"name":"海量优质的软件与服务",
+		"description":"便捷与高效，全方位软件与服务资源助力您的业务高速发展",
 		"id":"5"
 	},
 	{
-		"name":"Getting Started",
-		"description":"Quick-starts, tutorials and expert guides to help you getting started with JD Cloud",
+		"name":"新手上云指引1",
+		"description":"实战教程，专家攻略，手把手带您步入云上初体验",
 		"id":"6"
 	},
 	{
-		"name":"Partners",
-		"description":"Professional and reliable partners to grow with you on JD Cloud",
+		"name":"专业、可靠的合作伙伴",
+		"description":"合作共赢，京东云携手合作伙伴共同成长",
 		"id":"7"
 	},
 	{
-		"name":"Create Free Account",
+		"name":"新用户注册有礼，免费体验京东云",
 		"description":"",
 		"id":"8"
 	},
 	{
-		"name":"Anti-DDos 1",
+		"name":"DDos防御1",
 		"description":"16234698361",
 		"id":"9"
 	},
 	{
-		"name":"Compliance and Certificates",
-		"description":"Trusted cloud with compliance, security and technical leadership",
+		"name":"权威专业的资质认证",
+		"description":"安全合规、技术领先，只做专业可信赖的云服务提供商",
 		"id":"10"
 	}
 ]
