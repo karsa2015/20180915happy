@@ -1,0 +1,10 @@
+[
+	{
+		"txt":"{\"desc\":\"Based on a fast, stable, efficient, open and flexible system, JD Cloud PLUS Enterprise Email breaks the consistent mode of hosting service of traditional enterprise mailbox to bring customers a brand-new enterprise mailbox SaaS hosting operation service through mature cloud computing mode.\",\"iconUrl\":\"\",\"imageUrl\":\"//img1.jcloudcs.com/cms/75050d98-a3d5-4dbc-9279-34144b5c2c6820180820133455.png\",\"middleClstag\":\"Products|keycount|MiddleContentSec|91\",\"sectionClstag\":\"Products|keycount|SectionBannerSec|91\"}",
+		"id":"91"
+	},
+	{
+		"txt":"[{\"description\":\"[]\",\"descriptionJson\":[],\"id\":700,\"instruction\":\"The online anti-junk system of JD Cloud PLUS Enterprise Email uses the independently researched and developed anti-junk machine learning technology based on big data for accurate mail judgment in real time. The anti-junk data center monitors and makes quick response in real time to cut off the latest threats from the Internet.\",\"lang\":\"en\",\"langId\":250,\"name\":\"Spam Filtering\",\"picUrl\":\"http://www-jcloud-com.oss.cn-stag-1.jcloudcs.com/en/4e94664e-0f71-425d-bc8e-bca8a913ff1d20180816113108.png\",\"productId\":457,\"sort\":0,\"status\":0},{\"description\":\"[]\",\"descriptionJson\":[],\"id\":701,\"instruction\":\"All-round security protection system provides integrated and comprehensive protection policy according to the development of mail information life cycle. Protect the security of mail system information data from the following six aspects: storage, login, transmission, anti-junk, management and defense.\",\"lang\":\"en\",\"langId\":251,\"name\":\"All-round Security Protection\",\"picUrl\":\"http://www-jcloud-com.oss.cn-stag-1.jcloudcs.com/en/ca6fb819-743c-498e-b48d-a43e3d10f7bf20180816113203.png\",\"productId\":457,\"sort\":0,\"status\":0}]",
+		"id":"91"
+	}
+]
