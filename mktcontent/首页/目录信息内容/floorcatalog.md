@@ -1,558 +1,552 @@
 [
 	{
-		"name":"Elastic Compute",
-		"description":"Professional, Safe and Stable",
+		"name":"弹性计算",
+		"description":"专业、安全、稳定",
 		"id":"1",
 		"button_title":""
 	},
 	{
-		"name":"Virtual Machines",
-		"description":"Stable and Secure Elastic Compute Service",
-		"id":"5",
-		"button_title":"Buy Now"
-	},
-	{
-		"name":"GPU Service",
-		"description":"High-performance services accelerating deep learning and scientific computing",
-		"id":"7",
-		"button_title":"Apply Now"
-	},
-	{
-		"name":"Native Container",
-		"description":"Secure, easy-to-use container cloud service",
-		"id":"8",
-		"button_title":"View Now"
-	},
-	{
-		"name":"Cloud Disk Service",
-		"description":"High-performance, elastic block storage service",
-		"id":"9",
-		"button_title":"Buy Now"
-	},
-	{
-		"name":"Availability Group",
-		"description":"Physically dispersed disaster tolerance deployment plan across Availability Zones",
-		"id":"102",
-		"button_title":"View Now"
-	},
-	{
-		"name":"Auto Scaling",
-		"description":"Service for automatic adjustment to resource size on demand",
-		"id":"104",
-		"button_title":""
-	},
-	{
-		"name":"Networking",
-		"description":"Fast, Flexible and Reliable",
+		"name":"网络",
+		"description":"快速、灵活、可靠",
 		"id":"2",
 		"button_title":""
 	},
 	{
-		"name":"Direct Connection",
-		"description":"Providing intranet-level high-speed interconnect for hybrid cloud",
-		"id":"12",
-		"button_title":"View Now"
-	},
-	{
-		"name":"Load Balancer",
-		"description":"With traffic load distribution, adjust back-end services as needed",
-		"id":"13",
-		"button_title":"Use Now"
-	},
-	{
-		"name":"Virtual Private Cloud",
-		"description":"Securely isolating cyberspace for flexible deployment",
-		"id":"69",
-		"button_title":"Use Now"
-	},
-	{
-		"name":"VPN",
-		"description":"Connected to JD Cloud and enterprise intranet, safe and reliable",
-		"id":"80",
-		"button_title":"Use Now"
-	},
-	{
-		"name":"Elastic Network Interface",
-		"description":"Core Component for Elastic Network and High Availability Architecture",
-		"id":"103",
-		"button_title":"View Now"
-	},
-	{
-		"name":"Storage and CDN",
-		"description":"Massive, Efficient and Convenient",
+		"name":"存储与CDN",
+		"description":"海量、高效、 便捷",
 		"id":"3",
 		"button_title":""
 	},
 	{
-		"name":"Object Storage Service",
-		"description":"High availability, low cost, strong security cloud storage service",
-		"id":"17",
-		"button_title":"Open Now"
-	},
-	{
-		"name":"CDN",
-		"description":"High quality, stable and reliable internet content distribution service",
-		"id":"19",
-		"button_title":"Open Now"
-	},
-	{
-		"name":"Big Data & Analytics",
-		"description":"Minimizing the Threshold for Using Data",
+		"name":"大数据基础服务",
+		"description":"让使用数据的门槛降到最低",
 		"id":"4",
 		"button_title":""
 	},
 	{
-		"name":"Data Factory",
-		"description":"Constructing data processing and analysis operation in work-flow mode",
+		"name":"云主机1",
+		"description":"稳定安全的弹性计算服务",
+		"id":"5",
+		"button_title":"立即购买"
+	},
+	{
+		"name":"GPU 服务器",
+		"description":"加速深度学习，科学计算的高性能服务",
+		"id":"7",
+		"button_title":"立即申请"
+	},
+	{
+		"name":"原生容器",
+		"description":"安全，易用的容器云服务",
+		"id":"8",
+		"button_title":"立即查看"
+	},
+	{
+		"name":"云硬盘",
+		"description":"高性能的弹性块存储服务",
+		"id":"9",
+		"button_title":"立即购买"
+	},
+	{
+		"name":"专线连接",
+		"description":"为混合云提供内网级高速互联",
+		"id":"12",
+		"button_title":"立即查看"
+	},
+	{
+		"name":"负载均衡",
+		"description":"流量负载分发，按需调整后端服务",
+		"id":"13",
+		"button_title":"立即使用"
+	},
+	{
+		"name":"对象存储",
+		"description":"高可用、低成本、强安全的云存储服务",
+		"id":"17",
+		"button_title":"立即开通"
+	},
+	{
+		"name":"CDN",
+		"description":"优质、稳定、可靠的互联网内容分发服务",
+		"id":"19",
+		"button_title":"立即开通"
+	},
+	{
+		"name":"数据工厂",
+		"description":"以工作流形式构建数据处理分析作业",
 		"id":"20",
-		"button_title":"View Now"
+		"button_title":"立即查看"
 	},
 	{
-		"name":"Data Compute",
-		"description":"Fully-hosted and low-cost PB-level data warehouse",
+		"name":"数据计算服务",
+		"description":"全托管、低使用成本的PB级数据仓库",
 		"id":"21",
-		"button_title":"View Now"
+		"button_title":"立即查看"
 	},
 	{
-		"name":"BI Report",
-		"description":"Easily getting started with big data analysis and quickly realizing visualization",
+		"name":"BI 报表",
+		"description":"轻松上手大数据分析，快速实现可视化",
 		"id":"22",
-		"button_title":"View Now"
+		"button_title":"立即查看"
 	},
 	{
-		"name":"JD MapReduce",
-		"description":"Fully-hosted Hadoop/Spark data cluster service",
+		"name":"JMR",
+		"description":"全托管的Hadoop/Spark数据集群服务",
 		"id":"23",
-		"button_title":"View Now"
+		"button_title":"立即查看"
 	},
 	{
-		"name":"Stream Hub",
-		"description":"Expandable, high-throughput streaming data service",
-		"id":"95",
-		"button_title":"View Now"
-	},
-	{
-		"name":"Stream Compute",
-		"description":"It supports real-time computing services of SQL",
-		"id":"96",
-		"button_title":"View Now"
-	},
-	{
-		"name":"E-commerce Cloud",
-		"description":"Based on Cloud computing and big data technology, combined with more than ten years of e-commerce business experience from JD Group, E-commerce solution will help traditional enterprises on digital transformation and break the boundaries in people, goods and markets.",
+		"name":"电商云",
+		"description":"在云计算和大数据基础上，结合了京东十多年电子商务技术及运营经验，推出帮助传统企业互联网转型和打破人、货、场边界的无界零售电商解决方案。",
 		"id":"28",
-		"button_title":"Support Mobile"
+		"button_title":"支持移动端"
 	},
 	{
-		"name":"Logistics Cloud",
-		"description":"Relying on JD's stable, efficient and flexible cloud computing and big data capabilities, it provides logistics technology, products and operation advisory services for governments and enterprises, reduces the cost of self built logistics, enhances the efficiency of logistics operation, and promotes the transformation and upgrading of government enterprises and the Internet + logistics.",
+		"name":"物流云",
+		"description":"依托京东稳定、高效、灵活的云计算和大数据能力，为政府和企业提供物流技术、产品及运营咨询服务，降低用户自建物流成本，提升物流运营效率，助力政企互联网+物流转型升级。",
 		"id":"29",
-		"button_title":"Support Mobile"
+		"button_title":"查看详情"
 	},
 	{
-		"name":"Intelligent Cloud",
-		"description":"Relying on JD Cloud technology and big data capabilities, provides technical support and intelligent business incubation, accelerates the transformation of government, enterprises and individuals in \"Internet + intelligence\".",
+		"name":"智能云",
+		"description":"依托京东云技术和大数据能力，整合京东在互联网市场的优质资源，提供技术支持、智能产品对接、智能创业孵化等服务，加速政府、企业及个人在“互联网+智能”创新转型。",
 		"id":"30",
-		"button_title":"View Details"
+		"button_title":"查看详情"
 	},
 	{
-		"name":"Industrial Cloud",
-		"description":"Focus on needs of industrial customers, based on JD Cloud's technology, products, expertise, and practical experience in Internet+ ,building leading industrial solutions.",
+		"name":"产业云",
+		"description":"立足产业客户的行业需求，依托京东云强大的技术与云产品；并结合京东的互联网+的实践经验与集团资源；透过京东云专业服务，共筑行业标杆与业界领先的产业解决方案。",
 		"id":"31",
-		"button_title":"View Details"
+		"button_title":"查看详情"
 	},
 	{
-		"name":"Financial Cloud",
-		"description":"Server rooms and clusters are physically isolated from public cloud. Based on a computer room layout of three centers at two sites, it meets regulatory requirements by “one bank and three commissions” for the financial industry. Help financial customers move from existing traditional IT solution to big data and cloud computing to realize the innovation and transformation of their business.",
+		"name":"金融云",
+		"description":"采用独立的机房集群，与公有云物理隔离。基于两地三中心的机房布局，满足一行三会对于金融业的监管要求。帮助金融客户从现有传统IT迈向大数据和云计算，实现业务创新转型。",
 		"id":"32",
-		"button_title":"View Details"
+		"button_title":"查看详情"
 	},
 	{
-		"name":"Hosted Cloud",
-		"description":"Sable, safe and economical application hosting solution on JD Cloud platform to support rapid growth of business, with stronge security protection to your business data.",
+		"name":"托管云",
+		"description":"整合京东云丰富的云资源，为您提供稳定、安全、经济的应用托管解决方案。一站式服务，业务轻松上云；弹性扩展，轻松应对业务快速增长；全方面安全防护，保障业务数据安全。",
 		"id":"33",
-		"button_title":"Support Mobile"
+		"button_title":"支持移动端"
 	},
 	{
-		"name":"Data API Platform",
-		"description":"JD Cloud Wanxiang Big Data Open Platform is based on the existing cloud computing platform to build a comprehensive data open platform focusing on data opening, data sharing and data analysis that surround data providers, data demanders and data service providers, in order to provide authoritative data support for the whole industry and create a high-quality ecosystem with open data for the whole industry.",
+		"name":"数据 API 平台",
+		"description":"京东云万象大数据开放平台是京东云在已有的云计算平台基础上围绕数据提供方、数据需求方、数据服务方等多方，构建了以数据开放、数据共享、数据分析为核心的综合性数据开放平台，为全行业提供权威数据支持，打造全行业数据开放的优质生态圈。",
 		"id":"34",
-		"button_title":"View Details"
+		"button_title":"查看详情"
 	},
 	{
-		"name":"Data Cloud",
-		"description":"Combined with JD's high-quality data sources, rich business scenarios, and powerful data analysis capabilities, JD Cloud Big Data Processing Engine fully covers the need for big data in various industries.",
+		"name":"数据云",
+		"description":"结合京东“完善高质的数据链+丰富的业务场景+强大的数据分析能力”，京东云大数据处理引擎充分覆盖各行业大数据需求。京东云大数据专家团队将根据用户具体需求，提供丰富的解决方案。",
 		"id":"35",
-		"button_title":"View Details"
+		"button_title":"查看详情"
 	},
 	{
-		"name":"Basic Software",
+		"name":"基础软件",
 		"description":"",
 		"id":"36",
 		"button_title":""
 	},
 	{
-		"name":"Running Environment",
-		"description":"",
-		"id":"42",
-		"button_title":""
-	},
-	{
-		"name":"Management and Monitoring",
-		"description":"",
-		"id":"43",
-		"button_title":""
-	},
-	{
-		"name":"Database",
-		"description":"",
-		"id":"44",
-		"button_title":""
-	},
-	{
-		"name":"Enterprise Software",
+		"name":"企业软件",
 		"description":"",
 		"id":"37",
 		"button_title":""
 	},
 	{
-		"name":"Collaborative Office",
-		"description":"",
-		"id":"45",
-		"button_title":""
-	},
-	{
-		"name":"Marketing Management",
-		"description":"",
-		"id":"46",
-		"button_title":""
-	},
-	{
-		"name":"E-commerce Management",
-		"description":"",
-		"id":"47",
-		"button_title":""
-	},
-	{
-		"name":"Data Intelligence",
+		"name":"数据智能",
 		"description":"",
 		"id":"38",
 		"button_title":""
 	},
 	{
-		"name":"Data Analysis",
-		"description":"",
-		"id":"48",
-		"button_title":""
-	},
-	{
-		"name":"E-commerce Marketing",
-		"description":"",
-		"id":"49",
-		"button_title":""
-	},
-	{
-		"name":"AI",
-		"description":"",
-		"id":"50",
-		"button_title":""
-	},
-	{
-		"name":"Cloud Security",
+		"name":"云安全",
 		"description":"",
 		"id":"39",
 		"button_title":""
 	},
 	{
-		"name":"Endpoint Security",
-		"description":"",
-		"id":"51",
-		"button_title":""
-	},
-	{
-		"name":"Network Security",
-		"description":"",
-		"id":"52",
-		"button_title":""
-	},
-	{
-		"name":"Application Security",
-		"description":"",
-		"id":"53",
-		"button_title":""
-	},
-	{
-		"name":"Website Construction",
+		"name":"网站建设",
 		"description":"",
 		"id":"40",
 		"button_title":""
 	},
 	{
-		"name":"Enterprise Illustration",
-		"description":"",
-		"id":"54",
-		"button_title":""
-	},
-	{
-		"name":"E-commerce",
-		"description":"",
-		"id":"55",
-		"button_title":""
-	},
-	{
-		"name":"Community Forum",
-		"description":"",
-		"id":"56",
-		"button_title":""
-	},
-	{
-		"name":"DevOps Service",
+		"name":"运维服务",
 		"description":"",
 		"id":"41",
 		"button_title":""
 	},
 	{
-		"name":"Data Migration",
+		"name":"运行环境",
+		"description":"",
+		"id":"42",
+		"button_title":""
+	},
+	{
+		"name":"管理与监控",
+		"description":"",
+		"id":"43",
+		"button_title":""
+	},
+	{
+		"name":"数据库",
+		"description":"",
+		"id":"44",
+		"button_title":""
+	},
+	{
+		"name":"协同办公",
+		"description":"",
+		"id":"45",
+		"button_title":""
+	},
+	{
+		"name":"营销管理",
+		"description":"",
+		"id":"46",
+		"button_title":""
+	},
+	{
+		"name":"电商管理",
+		"description":"",
+		"id":"47",
+		"button_title":""
+	},
+	{
+		"name":"数据分析",
+		"description":"",
+		"id":"48",
+		"button_title":""
+	},
+	{
+		"name":"电商营销",
+		"description":"",
+		"id":"49",
+		"button_title":""
+	},
+	{
+		"name":"人工智能",
+		"description":"",
+		"id":"50",
+		"button_title":""
+	},
+	{
+		"name":"主机安全",
+		"description":"",
+		"id":"51",
+		"button_title":""
+	},
+	{
+		"name":"网络安全",
+		"description":"",
+		"id":"52",
+		"button_title":""
+	},
+	{
+		"name":"应用安全",
+		"description":"",
+		"id":"53",
+		"button_title":""
+	},
+	{
+		"name":"企业展示",
+		"description":"",
+		"id":"54",
+		"button_title":""
+	},
+	{
+		"name":"电子商务",
+		"description":"",
+		"id":"55",
+		"button_title":""
+	},
+	{
+		"name":"社区论坛",
+		"description":"",
+		"id":"56",
+		"button_title":""
+	},
+	{
+		"name":"数据迁移",
 		"description":"",
 		"id":"57",
 		"button_title":""
 	},
 	{
-		"name":"Delegated DevOps",
+		"name":"云代维",
 		"description":"",
 		"id":"58",
 		"button_title":""
 	},
 	{
-		"name":"Troubleshooting",
+		"name":"故障排查",
 		"description":"",
 		"id":"59",
 		"button_title":""
 	},
 	{
-		"name":"Percentage",
+		"name":"百分点",
 		"description":"",
 		"id":"60",
 		"button_title":""
 	},
 	{
-		"name":"Shopex",
+		"name":"商派",
 		"description":"",
 		"id":"61",
 		"button_title":""
 	},
 	{
-		"name":"Coremail",
+		"name":"论客",
 		"description":"",
 		"id":"62",
 		"button_title":""
 	},
 	{
-		"name":"Deya",
+		"name":"德雅",
 		"description":"",
 		"id":"63",
 		"button_title":""
 	},
 	{
-		"name":"Taihuoniao",
+		"name":"太火鸟",
 		"description":"",
 		"id":"64",
 		"button_title":""
 	},
 	{
-		"name":"Gift for New User Registration, Free Trial of JD Cloud",
+		"name":"新用户注册有礼，免费体验京东云",
 		"description":"",
 		"id":"65",
-		"button_title":"Sign Up Now"
+		"button_title":"立即注册"
 	},
 	{
-		"name":"JD Cloud Partnered with VSTECS",
-		"description":"VSTECS and JD Cloud announced their strategic partnership. Both parties agreed to share resources and join hands to accelerate the application, promotion and development of cloud computing and related businesses in and out of China.\n",
+		"name":"京东云产品入驻海航云集市",
+		"description":"京东云宣布，已与海航集团旗下一站式云资源能力获取平台——海航云集市达成战略合作协议，即日起，包括弹性计算、网络、存储、云安全、云数据库及缓存、CDN在内的京东云产品服务全面入驻海航云集市。\n",
 		"id":"66",
-		"button_title":"Strategy Cooperation"
+		"button_title":"战略合作"
 	},
 	{
-		"name":"JD Cloud Partnered with Seagate",
-		"description":"With comprehensive strategic partnership established, JD Cloud and Seagate agreed to partner with each other in cloud computing, storage technology, e-commerce and other fields based on the market-oriented principle, and to jointly explore and make innovation by sharing each other’s advanced technologies and resources, thus facilitating to realize their strategic  cooperation goals.",
+		"name":"京东云获多项可信云奖项",
+		"description":"可信云奖项和评估的获得，再度印证了京东云在技术创新领域的强劲实力，也标志着京东云的政务云解决方案已达到国内外先进水平，京东云“技术赋能”意义进一步凸显。",
 		"id":"68",
-		"button_title":"Strategy Cooperation"
+		"button_title":"获奖殊荣"
 	},
 	{
-		"name":"Cloud Security",
+		"name":"私有网络",
+		"description":"安全隔离网络空间，灵活部署",
+		"id":"69",
+		"button_title":"立即使用"
+	},
+	{
+		"name":"云安全",
 		"description":"",
 		"id":"71",
 		"button_title":""
 	},
 	{
-		"name":"Anti-DDoS Pro",
-		"description":"It provides value-added protection services for large volume DDoS attacks",
-		"id":"89",
-		"button_title":"View Now"
-	},
-	{
-		"name":"Anti-DDoS Basic ",
-		"description":"Providing 2G free protection for JD Cloud users",
-		"id":"90",
-		"button_title":"Use Now"
-	},
-	{
-		"name":"Endpoint Security",
-		"description":"Machine Real-time monitoring of host risk, precision protection against malicious intrusion",
-		"id":"98",
-		"button_title":"View Now"
-	},
-	{
-		"name":"Situation Awareness",
-		"description":"Providing basic threat detection and intrusion alert services",
-		"id":"100",
-		"button_title":"View Now"
-	},
-	{
-		"name":"SSL Certificate",
-		"description":"One-stop Cloud Certificate Issuance and Management",
-		"id":"105",
-		"button_title":""
-	},
-	{
-		"name":"Application Security Gateway",
-		"description":"Experts in cloud application layer security protection and business compliance solutions",
-		"id":"106",
-		"button_title":""
-	},
-	{
-		"name":"Management",
+		"name":"管理",
 		"description":"",
 		"id":"72",
 		"button_title":""
 	},
 	{
-		"name":"Monitoring",
-		"description":"Three-dimensional cloud product data monitoring, real-time early warning, stable and secure",
-		"id":"91",
-		"button_title":"View Now"
-	},
-	{
-		"name":"IAM",
-		"description":"Manage resource access rights for sub-users",
-		"id":"92",
-		"button_title":"View Now"
-	},
-	{
-		"name":"DevOps",
-		"description":"One-stop Platform to Help DevOps Solution",
-		"id":"107",
-		"button_title":""
-	},
-	{
-		"name":"Domain Name & License",
+		"name":"域名与备案",
 		"description":"",
 		"id":"73",
 		"button_title":""
 	},
 	{
-		"name":"Domain Name Service",
-		"description":"Providing multiple domain name registration services such as .com .cn .net",
-		"id":"93",
-		"button_title":"Sign Up Now"
-	},
-	{
-		"name":"ICP License Service",
-		"description":"Providing safe, convenient and reliable ICP License Service",
-		"id":"94",
-		"button_title":"Immediate License"
-	},
-	{
-		"name":"JD Cloud DNS",
-		"description":"Highly available, highly reliable and authoritative DNS service",
-		"id":"108",
-		"button_title":""
-	},
-	{
-		"name":"Database and Cache Service",
+		"name":"云数据库与缓存",
 		"description":"",
 		"id":"74",
 		"button_title":""
 	},
 	{
-		"name":"JCS for MySQL",
-		"description":"Stable and reliable relational database service",
+		"name":"VPN",
+		"description":"连接京东云和企业内网，安全可靠",
+		"id":"80",
+		"button_title":"立即使用"
+	},
+	{
+		"name":"云数据库 MySQL",
+		"description":"稳定可靠的关系型数据库服务",
 		"id":"84",
-		"button_title":"Buy Now"
+		"button_title":"立即购买"
 	},
 	{
-		"name":"JCS for SQL Server",
-		"description":"Powerful, stable and reliable data management platform",
+		"name":"云数据库 SQL Server",
+		"description":"功能强大，稳定可靠的数据管理平台",
 		"id":"85",
-		"button_title":"View Now"
+		"button_title":"立即查看"
 	},
 	{
-		"name":"JCS for MongoDB",
-		"description":"High-performance NoSQL database",
+		"name":"云数据库 MongoDB",
+		"description":"高性能NoSQL数据库",
 		"id":"86",
-		"button_title":"View Now"
+		"button_title":"立即查看"
 	},
 	{
-		"name":"JCS for Redis",
-		"description":"High-performance, expandable, distributed storage and caching services",
+		"name":"云缓存 Redis",
+		"description":"高性能、易扩展的分布式存储和缓存服务",
 		"id":"87",
-		"button_title":"View Now"
+		"button_title":"立即查看"
 	},
 	{
-		"name":"JCS for Percona",
-		"description":"Compatible with MySQL protocol, with a more powerful engine",
-		"id":"119",
-		"button_title":"View Now"
+		"name":"IP 高防",
+		"description":"针对大流量的DDoS攻击，提供的增值防护服务",
+		"id":"89",
+		"button_title":"立即查看"
 	},
 	{
-		"name":"JD Cloud Partners Conference 2018 Convened",
-		"description":"JD Cloud released its core concept, missions and latest developments of JD Cloud Ecology at JD Cloud Partners Conference 2018 themed with “Mutual Cooperation for Infinite Future”. JD Cloud discussed with Intel, iPinYou, Seagate and other partners the development and construction of cloud ecology.",
+		"name":"DDoS 基础防护",
+		"description":"为京东云用户提供2G的免费防护",
+		"id":"90",
+		"button_title":"立即使用"
+	},
+	{
+		"name":"云监控",
+		"description":"立体化云产品数据监控，实时预警，稳定安全",
+		"id":"91",
+		"button_title":"立即查看"
+	},
+	{
+		"name":"访问控制",
+		"description":"管理子用户的资源访问权限",
+		"id":"92",
+		"button_title":"立即查看"
+	},
+	{
+		"name":"域名注册",
+		"description":"提供.com .cn .net 等多种域名注册服务",
+		"id":"93",
+		"button_title":"立即注册"
+	},
+	{
+		"name":"备案服务",
+		"description":"提供安全、便捷、可靠的备案服务",
+		"id":"94",
+		"button_title":"立即备案"
+	},
+	{
+		"name":"流数据总线",
+		"description":"可扩展、高吞吐的流式数据服务",
+		"id":"95",
+		"button_title":"立即查看"
+	},
+	{
+		"name":"流计算",
+		"description":"支持SQL的实时计算服务",
+		"id":"96",
+		"button_title":"立即查看"
+	},
+	{
+		"name":"主机安全",
+		"description":"主机风险实时监测、恶意入侵精准防护",
+		"id":"98",
+		"button_title":"立即查看"
+	},
+	{
+		"name":"态势感知",
+		"description":"提供基础威胁检测和入侵告警服务",
+		"id":"100",
+		"button_title":"立即查看"
+	},
+	{
+		"name":"京东云战略投资EasyStack",
+		"description":"京东云宣布战略投资2018年准高成长性企业——EasyStack，双方将密切合作，在云计算、分布式存储、容器三大开源技术领域，助力京东云成为可托付的云计算服务商。",
 		"id":"101",
-		"button_title":"Major Events"
+		"button_title":"战略投资"
 	},
 	{
-		"name":"Getting Started Lesson 1: Select model and purchase Virtual Machines",
+		"name":"高可用组",
+		"description":"跨可用区的物理分散容灾部署方案",
+		"id":"102",
+		"button_title":"立即查看"
+	},
+	{
+		"name":"NAT 网关",
+		"description":"私有网络连接公网出口，共享公网带宽",
+		"id":"103",
+		"button_title":"立即查看"
+	},
+	{
+		"name":"弹性伸缩",
+		"description":"按需自动调整资源规模的服务",
+		"id":"104",
+		"button_title":""
+	},
+	{
+		"name":"SSL 数字证书",
+		"description":"一站式云端证书签发与管理",
+		"id":"105",
+		"button_title":""
+	},
+	{
+		"name":"应用安全网关",
+		"description":"云上应用层安全防护、业务合规解决方案专家",
+		"id":"106",
+		"button_title":""
+	},
+	{
+		"name":"DevOps",
+		"description":"一站式平台，助力DevOps解决方案",
+		"id":"107",
+		"button_title":""
+	},
+	{
+		"name":"云解析DNS",
+		"description":"高可用、高可靠的权威DNS服务",
+		"id":"108",
+		"button_title":""
+	},
+	{
+		"name":"新手入门第一课：选型并购买云主机",
 		"description":"",
 		"id":"109",
 		"button_title":""
 	},
 	{
-		"name":"Getting Started Lesson 2: Connect and log in Virtual Machines",
+		"name":"新手入门第二课：连接并登录云主机",
 		"description":"",
 		"id":"110",
 		"button_title":""
 	},
 	{
-		"name":"Getting Started Lesson 3: Create and manage Cloud Database",
+		"name":"新手入门第三课：创建并管理云数据库",
 		"description":"",
 		"id":"111",
 		"button_title":""
 	},
 	{
-		"name":"",
+		"name":"公安部等级保护评测",
 		"description":"",
 		"id":"112",
 		"button_title":""
 	},
 	{
-		"name":"",
+		"name":"信息安全管理体系国际认证",
 		"description":"",
 		"id":"113",
 		"button_title":""
 	},
 	{
-		"name":"",
+		"name":"可信云服务认证",
 		"description":"",
 		"id":"114",
 		"button_title":""
 	},
 	{
-		"name":"",
+		"name":"信息技术服务标准评测",
 		"description":"",
 		"id":"115",
 		"button_title":""
 	},
 	{
-		"name":"Kangkang Blood Pressure",
+		"name":"康康血压",
 		"description":"",
 		"id":"116",
 		"button_title":""
@@ -564,15 +558,15 @@
 		"button_title":""
 	},
 	{
-		"name":"iPinYou",
+		"name":"品友互动",
 		"description":"",
 		"id":"118",
 		"button_title":""
 	},
 	{
-		"name":"PLUS Smart SMS",
-		"description":"An open communication service platform provided to the user. It supports SMS verification code, SMS notification and marketing & promotion SMS.",
-		"id":"1321",
-		"button_title":"View Now"
+		"name":"云数据库 Percona",
+		"description":"兼容 MySQL 协议，引擎功能更强大",
+		"id":"119",
+		"button_title":"立即查看"
 	}
 ]
