@@ -10,13 +10,11 @@
       compatible: true,
       preload: false,
       navId: "jdhome2016",
-	  timestamp: 1542781426000, 
+	  timestamp: 1542784117000, 
       isEnablePDBP: 0,
+		surveyTitle : "调查问卷",
 		surveyLink : "//surveys.jd.com/index.php?r=survey/index/sid/889711/newtest/Y/lang/zh-Hans",
 		leftCateABtestSwitch : 0,
-		surveyTitle : "调查问卷",
-		awardsLink : "//surveys.jd.com/index.php?r=survey/index/sid/783184/lang/zh-Hans",
-		awardsTitle : "有奖调查",
 		"" : ""
     };
   </script>
@@ -280,11 +278,11 @@ margin: 0 0 0 15px !important;
 	<a href="//yp.jd.com/7378439f822c457ead0.html">2000左右三门冰箱</a>
 	<a href="//yp.jd.com/7370b73e9a4f876279e.html">173升双门冰箱</a>
 	<a href="//yp.jd.com/737b7798134c38f6f7c.html">180升电冰箱</a>
-	<a href="//www.jd.com/phb/key_737749e9e071fb432e6.html">卡萨帝（Casarte）钢化玻璃冰箱</a>
-	<a href="//www.jd.com/phb/key_73778185a0b1f1de39d.html">松下（Panasonic）变频冰箱</a>
-	<a href="//www.jd.com/phb/key_737d85b48c7b96e4241.html">韩电冰箱家用</a>
-	<a href="//www.jd.com/phb/key_737be58489872b684d2.html">康佳（KONKA）十字对开门冰箱</a>
-	<a href="//www.jd.com/phb/key_7370708883a8e73821f.html">康佳电冰箱</a>
+	<a href="//www.jd.com/phb/key_7377f9df4d0255840b4.html">上菱双门定频冰箱</a>
+	<a href="//www.jd.com/phb/key_737006e67182b403109.html">万宝（Wanbao）彩钢冰箱</a>
+	<a href="//www.jd.com/phb/key_737cd3798d2e0fe41e9.html">西门子电冰箱</a>
+	<a href="//www.jd.com/phb/key_737a3323d4d16a9f7ec.html">美的（Midea）三门风冷（无霜）冰箱</a>
+	<a href="//www.jd.com/phb/key_737e5dd478e4c76c928.html">海尔家用冰箱</a>
 </div>
 <!-- CLUB_LINK end -->
     <div class="fs">
